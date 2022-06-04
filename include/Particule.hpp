@@ -57,7 +57,7 @@ class Particule {
 
         void sizeEvent(Parameters p);
 
-        void Particule::markovEvent(float amp, float amp2);
+        void markovEvent(float amp, float amp2);
 };
 
 #endif
