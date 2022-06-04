@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libglpp-extended.a "CMakeFiles/glpp-extended.dir/src/Program.cpp.obj" "CMakeFiles/glpp-extended.dir/src/RenderTarget.cpp.obj"
+C:\MinGW\bin\ranlib.exe libglpp-extended.a

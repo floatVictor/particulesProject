@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libglpp.a CMakeFiles/glpp.dir/src/glpp/check_errors.cpp.obj CMakeFiles/glpp.dir/src/glpp/Functions/Texture.cpp.obj CMakeFiles/glpp.dir/src/glpp/Functions/Program.cpp.obj CMakeFiles/glpp.dir/src/glpp/Functions/Framebuffer.cpp.obj CMakeFiles/glpp.dir/src/glpp/Functions/Miscellaneous.cpp.obj CMakeFiles/glpp.dir/src/glpp/internal/assert_is_bound.cpp.obj
+C:\MinGW\bin\ranlib.exe libglpp.a

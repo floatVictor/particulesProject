@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libexe_path.a CMakeFiles/exe_path.dir/src/exe_path.cpp.obj
+C:\MinGW\bin\ranlib.exe libexe_path.a

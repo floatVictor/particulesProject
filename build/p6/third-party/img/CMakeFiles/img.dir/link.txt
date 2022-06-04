@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libimg.a CMakeFiles/img.dir/src/Save.cpp.obj CMakeFiles/img.dir/src/Load.cpp.obj
+C:\MinGW\bin\ranlib.exe libimg.a

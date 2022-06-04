@@ -1,0 +1,312 @@
+[
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/my-p6-project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\my-p6-project.dir\\src\\Particule.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\src\\Particule.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/src/Particule.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/my-p6-project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\my-p6-project.dir\\src\\ParticuleList.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\src\\ParticuleList.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/src/ParticuleList.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/my-p6-project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\my-p6-project.dir\\src\\World.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\src\\World.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/src/World.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/my-p6-project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\my-p6-project.dir\\src\\main.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\src\\main.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/src/main.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/my-p6-project.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\my-p6-project.dir\\src\\mathProbabilitiesLib.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\src\\mathProbabilitiesLib.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/src/mathProbabilitiesLib.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\Context.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\Context.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Context.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\Shader.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\Shader.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Shader.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\Canvas.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\Canvas.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Canvas.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\Image.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\Image.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Image.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\math.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\math.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/math.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\Transform2D.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\Transform2D.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Transform2D.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\ImGuiWrapper.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\ImGuiWrapper.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/ImGuiWrapper.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\UniqueGlfwWindow.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\UniqueGlfwWindow.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/UniqueGlfwWindow.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\Time\\Clock.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\Time\\Clock.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/Time/Clock.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\Time\\Clock_FixedTimestep.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\Time\\Clock_FixedTimestep.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/Time/Clock_FixedTimestep.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\Time\\Clock_Realtime.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\Time\\Clock_Realtime.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/Time/Clock_Realtime.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\RectRenderer.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\RectRenderer.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/RectRenderer.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\TriangleRenderer.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\TriangleRenderer.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/TriangleRenderer.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/p6.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\p6.dir\\src\\details\\TextRenderer.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\src\\details\\TextRenderer.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/details/TextRenderer.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/glpp-extended.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp-extended.dir\\src\\Program.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\src\\Program.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/src/Program.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/glpp-extended.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp-extended.dir\\src\\RenderTarget.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\src\\RenderTarget.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/src/RenderTarget.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe  @CMakeFiles/glad.dir/includes_C.rsp -g -o CMakeFiles\\glad.dir\\third-party\\glad\\src\\glad.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\third-party\\glad\\src\\glad.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/third-party/glad/src/glad.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLPP_SHOULD_CHECK_ERRORS @CMakeFiles/glpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp.dir\\src\\glpp\\check_errors.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\src\\glpp\\check_errors.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLPP_SHOULD_CHECK_ERRORS @CMakeFiles/glpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp.dir\\src\\glpp\\Functions\\Texture.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\src\\glpp\\Functions\\Texture.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Texture.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLPP_SHOULD_CHECK_ERRORS @CMakeFiles/glpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp.dir\\src\\glpp\\Functions\\Program.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\src\\glpp\\Functions\\Program.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLPP_SHOULD_CHECK_ERRORS @CMakeFiles/glpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp.dir\\src\\glpp\\Functions\\Framebuffer.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\src\\glpp\\Functions\\Framebuffer.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLPP_SHOULD_CHECK_ERRORS @CMakeFiles/glpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp.dir\\src\\glpp\\Functions\\Miscellaneous.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\src\\glpp\\Functions\\Miscellaneous.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glpp-extended/lib/glpp",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -DGLPP_SHOULD_CHECK_ERRORS @CMakeFiles/glpp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\glpp.dir\\src\\glpp\\internal\\assert_is_bound.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glpp-extended\\lib\\glpp\\src\\glpp\\internal\\assert_is_bound.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/assert_is_bound.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/img",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\stb_image.dir\\lib\\stb_image\\stb_image.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\img\\lib\\stb_image\\stb_image.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/img/lib/stb_image/stb_image.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/img",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\stb_image.dir\\lib\\stb_image\\stb_image_write.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\img\\lib\\stb_image\\stb_image_write.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/img/lib/stb_image/stb_image_write.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/img",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/img.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\img.dir\\src\\Save.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\img\\src\\Save.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/img/src/Save.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/img",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/img.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\img.dir\\src\\Load.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\img\\src\\Load.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/img/src/Load.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/exe_path",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/exe_path.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\exe_path.dir\\src\\exe_path.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\exe_path\\src\\exe_path.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/exe_path/src/exe_path.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\context.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\context.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/context.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\init.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\init.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/init.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\input.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\input.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/input.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\monitor.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\monitor.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/monitor.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\platform.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\platform.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/platform.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\vulkan.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/vulkan.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\window.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\window.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/window.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\egl_context.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/egl_context.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_init.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\null_init.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/null_init.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_monitor.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\null_monitor.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/null_monitor.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_window.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\null_window.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/null_window.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\null_joystick.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\null_joystick.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/null_joystick.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_module.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_module.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_module.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_time.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_time.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_thread.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_thread.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_init.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_init.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_joystick.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\win32_window.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/win32_window.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/glfw/src",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE @CMakeFiles/glfw.dir/includes_C.rsp -g -Wall -std=c99 -Wdeclaration-after-statement -o CMakeFiles\\glfw.dir\\wgl_context.c.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/src/wgl_context.c"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_demo.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\imgui_demo.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_draw.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_tables.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\imgui_tables.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_widgets.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\imgui.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imgui.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\misc\\cpp\\imgui_stdlib.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\misc\\cpp\\imgui_stdlib.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/misc/cpp/imgui_stdlib.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\backends\\imgui_impl_glfw.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/backends/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/p6/third-party/imgui",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\victo\\Desktop\\IMAC2S2\\C++\\particulesProject\\particulesProject\\p6\\third-party\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/backends/imgui_impl_opengl3.cpp"
+}
+]
