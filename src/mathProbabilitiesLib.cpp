@@ -35,7 +35,6 @@ double sampleRandomBetweenZeroAndOne() {
     std::uniform_real_distribution<> distr(0., 1.); // define the range
     return distr(gen); // generate numbers
 }
-    //return float(rand()%10000) / 10000;
 
 
 // Uniform CONTINUOUS generator

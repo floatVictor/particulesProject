@@ -14,26 +14,15 @@ class Particule {
     private :
 
         glm::vec2 _pos;
-        float _size;
+        float _size = 0.001;
         float _angle; //0-360
-        float _speed;
         p6::Color _color;
         bool _state = true;
-        float _life = 1;
-        float _lifeIterator; //vitesse de viellissement
-
-        float _timedEventAngle; //angle de la mutation périodique
-        int _timedEventTime;   //temps de la période
-        float _timedEventLuck; // X% chance to trig event (every frame)
+        float _life;
+        float _lifeIterator = sampleUniformContinuous(0.0005, 0.001); //vitesse de viellissement
 
         bool _noiseEventGo = false;
-        float _noiseRatio; //noise amplitutde
-        float _noiseSize;
-
         bool _sizeEventGo = false;
-        float _sizeEventSize; //modulation sur la taille
-        int _sizeEventTime;
-        float _sizeEventLuck; // X% chance to trig event (every frame)
     
     public :
 
@@ -51,13 +40,13 @@ class Particule {
         bool getState();
 
         //event functions
-        void timedEvent();
+        void timedEvent(Parameters p);
 
         void noiseEvent(Parameters p);
 
         void sizeEvent(Parameters p);
 
-        void Particule::markovEvent(float amp, float amp2)
+        void markovEvent(float amp, float amp2);
 };
 
 #endif

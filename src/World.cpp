@@ -13,7 +13,6 @@
 
 World::World(Parameters p) {
 
-    _initPos = _current.getInitPos();
     _nbParticule = p.NBPARTICULE;
     _initAngle = p.INITANGLE;
     _current = ParticuleList(glm::vec2(0,0), p.NBPARTICULE, p.INITANGLE, p);
@@ -37,4 +36,4 @@ void World::updateVar() {
     _initAngle = sampleUniformContinuous(0, 360);
 }
 
-bool World::getState(Parameters p) { return _listIterator < p.NBLIST;}
+void World::kill() { _current.kill();}

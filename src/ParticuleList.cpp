@@ -20,7 +20,8 @@ ParticuleList::ParticuleList(const glm::vec2 &initPos, const int nbParticules, c
         _tab.push_back(Particule(initPos, angle, p));
     }
     std::cout << "new list created" << std::endl;
-    std::cout << "initPos : " << _initPos[0] << ";" << _initPos[1] << std::endl;
+    std::cout << "initPos : " << _initPos[0] << ";" << _initPos[1] << std::endl
+              << "initAngle : "<< angle << std::endl;
 }
 
 void ParticuleList::loopList(p6::Context &ctx, Parameters p){
@@ -52,6 +53,8 @@ glm::vec2 ParticuleList::getInitPos() { return glm::vec2(_initPos[0], _initPos[1
 void ParticuleList::printList(){
     std::cout << "nbAlive : " << getNbAlive() << std::endl << std::endl;
 }
+
+void ParticuleList::kill() {_state = false;}
 
 Particule *ParticuleList::getParticule(const int index){
     return &_tab[index];

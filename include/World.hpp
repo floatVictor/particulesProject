@@ -33,7 +33,7 @@ class World {
 
         void updateVar();
 
-        bool getState(Parameters p);
+        void kill();
 
 };
 

@@ -34,6 +34,8 @@ class ParticuleList {
 
         void printList();
 
+        void kill();
+
         Particule *getParticule(const int index);
 };   
 
