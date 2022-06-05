@@ -19,7 +19,7 @@ struct Parameters {
     float P_LIFE = 1; //vitesse de viellissement
 
         //-------event values [P_EVENTNAME_PARAMETER_E]
-    float P_TIME_ANGLE_E = 30; //angle de la mutation périodique
+    float P_TIME_ANGLE_E = 120; //angle de la mutation périodique
     int P_TIME_TIME_E = 300;   //temps de la période
     float P_TIME_LUCK_E = 0.01; // X% chance to trig event (every frame)
 
@@ -33,10 +33,12 @@ struct Parameters {
     bool ACTIVE_ANGLE_E = true;
     bool ACTIVE_NOISE_E = true;
     bool ACTIVE_SIZE_E = true;
-    bool ACTIVE_MARKOV_E = true;
+    bool ACTIVE_MARKOV_E = false;
 
     //global values
     int FRAMECOUNT = 0;
+    bool RESET = false;
+    bool BACKGROUND = false;
     
     siv::PerlinNoise::seed_type seed = sampleUniformContinuous(0, 10000);;
     siv::PerlinNoise perlin{ seed };
@@ -47,8 +49,14 @@ struct Parameters {
 
     //noise values
     float NOISE_RATIO = 0.03;
-    float NOISE_SIZE = 0.02;
-    float NOISE_AMP = 0.1;
+    float NOISE_SIZE = 0.024;
+    float NOISE_AMP = 3;
+
+    //display lines
+    bool LINE_BOOL = false;
+    float LINE_SIZE = 0.001;
+    float LINE_OPACITY = 0.1;
+    int LINE_TIME = 10;
 
 };
 

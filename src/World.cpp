@@ -15,14 +15,14 @@ World::World(Parameters p) {
 
     _nbParticule = p.NBPARTICULE;
     _initAngle = p.INITANGLE;
-    _current = ParticuleList(glm::vec2(0,0), p.NBPARTICULE, p.INITANGLE, p);
+    _current = ParticuleList(glm::vec2(0,0), p.INITANGLE, p);
 }
         
 void World::loopWorld(p6::Context &ctx,  Parameters p) {
 
     if(!_current.getState()){
         updateVar();
-        _current = ParticuleList(_initPos, _nbParticule, _initAngle, p);
+        _current = ParticuleList(_initPos, _initAngle, p);
         _listIterator ++;
     }
 

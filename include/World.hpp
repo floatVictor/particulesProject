@@ -18,7 +18,7 @@ class World {
         int _nbParticule;
         float _initAngle;
 
-        glm::vec2 _initPos;
+        glm::vec2 _initPos = glm::vec2(sampleUniformContinuous(-0.5, 0.5), sampleUniformContinuous(-0.5, 0.5));
 
         ParticuleList _current;
         bool _state = true;

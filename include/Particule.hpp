@@ -16,13 +16,17 @@ class Particule {
         glm::vec2 _pos;
         float _size = 0.001;
         float _angle; //0-360
+        float _speed = 0.0015;
         p6::Color _color;
+        float _opacity;
         bool _state = true;
         float _life;
         float _lifeIterator = sampleUniformContinuous(0.0005, 0.001); //vitesse de viellissement
 
         bool _noiseEventGo = false;
         bool _sizeEventGo = false;
+
+        float _sizeEventSize = 0.002;
     
     public :
 
@@ -37,7 +41,10 @@ class Particule {
 
         void printParticule();
 
+        //get functions
         bool getState();
+
+        glm::vec2 getPos();
 
         //event functions
         void timedEvent(Parameters p);
@@ -47,6 +54,8 @@ class Particule {
         void sizeEvent(Parameters p);
 
         void markovEvent(float amp, float amp2);
+
+        void speedEvent(Parameters p);
 };
 
 #endif

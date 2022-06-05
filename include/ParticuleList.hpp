@@ -22,9 +22,11 @@ class ParticuleList {
     public :
 
         ParticuleList();
-        ParticuleList(const glm::vec2 &initPos, const int nbParticules, const float angle, Parameters p);
+        ParticuleList(const glm::vec2 initPos, const float angle, Parameters p);
 
         void loopList(p6::Context &ctx,  Parameters p);
+
+        void display(p6::Context &ctx, Parameters p, Particule &p1, Particule &p2);
 
         int getNbAlive();
 
