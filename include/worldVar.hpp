@@ -21,7 +21,7 @@ struct Parameters {
         //-------event values [P_EVENTNAME_PARAMETER_E]
     float P_TIME_ANGLE_E = 120; //angle de la mutation périodique
     int P_TIME_TIME_E = 300;   //temps de la période
-    float P_TIME_LUCK_E = 0.01; // X% chance to trig event (every frame)
+    float P_TIME_LUCK_E = 0.04; // X% chance to trig event (every frame)
 
     float P_SIZE_AMP_E = 0.002; //modulation sur la taille
     int P_SIZE_TIME_E = 120;
@@ -50,13 +50,16 @@ struct Parameters {
     //noise values
     float NOISE_RATIO = 0.03;
     float NOISE_SIZE = 0.024;
-    float NOISE_AMP = 3;
+    float NOISE_AMP = 1.5;
 
     //display lines
-    bool LINE_BOOL = false;
+    bool LINE_BOOL = true;
     float LINE_SIZE = 0.001;
-    float LINE_OPACITY = 0.1;
-    int LINE_TIME = 10;
+    float LINE_OPACITY = 0.014;
+    int LINE_TIME = 3;
+
+    //UI
+    bool UI_DISPLAY = true;
 
 };
 

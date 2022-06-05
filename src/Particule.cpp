@@ -41,8 +41,8 @@ void Particule::update(Parameters p) {
 
     if (p.FRAMECOUNT % p.P_SIZE_TIME_E == 0) {
         if (probabilityPercent(p.P_SIZE_LUCK_E)) {
-            _sizeEventGo = !_sizeEventGo;
             if(p.ACTIVE_SIZE_E) sizeEvent(p);
+            _sizeEventGo = !_sizeEventGo;
         }
     }
 
@@ -55,13 +55,12 @@ void Particule::displayParticule(p6::Context &ctx, Parameters p) {
     ctx.use_stroke = false;
     ctx.use_fill = true;
 
-    _opacity = p.perlin.noise3D(_pos[0] * p.NOISE_SIZE, _pos[1] * p.NOISE_SIZE, p.INITANGLE);
+    _opacity = p.perlin.noise2D_01(_pos[0] * 540, _pos[1] * p.NOISE_SIZE * 360);
 
-    ctx.fill = p6::Color{0, 0, 0, _opacity * .3};
+    ctx.fill = p6::Color{0, 0, p.perlin.noise1D(p.FRAMECOUNT * p.NOISE_SIZE * 0.5), _opacity * 0.7};
     ctx.circle(p6::Center(_pos), _size + p.P_SIZE_ADD);
 
-    ctx.fill = p6::Color{0, 0, p.perlin.noise1D(_life * p.NOISE_SIZE), _opacity * .3};
-    if (probabilityPercent(35)) ctx.fill = p6::Color{1, 1, 1, _opacity * .5};
+    ctx.fill = p6::Color{1, p.perlin.noise1D(p.FRAMECOUNT * p.NOISE_SIZE * 0.5), p.perlin.noise1D(_life * p.NOISE_SIZE), _opacity * 0.3};
     ctx.circle(p6::Center(_pos[0] + 2 * _size + p.P_SIZE_ADD, _pos[1]), _size + p.P_SIZE_ADD);
     
 

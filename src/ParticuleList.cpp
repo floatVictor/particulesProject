@@ -40,7 +40,7 @@ void ParticuleList::loopList(p6::Context &ctx, Parameters p){
 
 void ParticuleList::display(p6::Context &ctx, Parameters p, Particule &p1, Particule &p2) {
 
-    ctx.stroke = p6::Color{1, 1, 1, p.LINE_OPACITY};
+    ctx.stroke = p6::Color{1 - p.perlin.noise1D(p.FRAMECOUNT * p.NOISE_SIZE * 0.5),1 - p.perlin.noise1D(p.FRAMECOUNT%53 * 0.01 * p.NOISE_SIZE), 1, p.LINE_OPACITY};
     ctx.stroke_weight = p.LINE_SIZE;
 
     if(p.FRAMECOUNT % p.LINE_TIME == 0) ctx.line(p1.getPos(), p2.getPos());
