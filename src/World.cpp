@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
-#include <stdio.h>      /* printf, scanf, puts, NULL */
-#include <stdlib.h>     /* srand, rand */
-#include <time.h> 
+#include <stdio.h>  /* printf, scanf, puts, NULL */
+#include <stdlib.h> /* srand, rand */
+#include <time.h>
 #include <p6/p6.h>
 
 #include "Particule.hpp"
@@ -11,22 +11,25 @@
 #include "worldVar.hpp"
 #include "mathProbabilitiesLib.hpp"
 
-//constructos
+// constructos
 
-World::World() {};
+World::World(){};
 
-World::World(Parameters p) {
+World::World(Parameters p)
+{
 
     _nbParticules = p.LIST_NBPARTICULE;
     _initAngle = p.LIST_INITANGLE;
-    _current = ParticuleList(glm::vec2(0,0), p.LIST_INITANGLE, p);
+    _current = ParticuleList(glm::vec2(0, 0), p.LIST_INITANGLE, p);
 }
 
-//loop function
-        
-void World::loopWorld(p6::Context &ctx,  Parameters p) {
+// loop function
 
-    if(!_current.getState()){
+void World::loopWorld(p6::Context &ctx, Parameters p)
+{
+
+    if (!_current.getState())
+    {
         updateVar();
         _current = ParticuleList(_initPos, _initAngle, p);
     }
@@ -34,15 +37,16 @@ void World::loopWorld(p6::Context &ctx,  Parameters p) {
     _current.loopList(ctx, p);
 }
 
-//update functions
+// update functions
 
-void World::updateVar() {
+void World::updateVar()
+{
 
     _initPos[0] = sampleUniformContinuous(-0.5, 0.5);
     _initPos[1] = sampleUniformContinuous(-0.5, 0.5);
     _initAngle = sampleUniformContinuous(0, 360);
 }
 
-void World::kill() { _current.kill();}
+void World::kill() { _current.kill(); }
 
-ParticuleList World::getList() { return _current;}
+ParticuleList World::getList() { return _current; }

@@ -10,36 +10,34 @@
 #ifndef __WORLD__HPP
 #define __WORLD__HPP
 
-class World {
+class World
+{
 
-    private :
+private:
+    // basic attributes
+    int _nbParticules;
+    float _initAngle;
+    glm::vec2 _initPos = glm::vec2(sampleUniformContinuous(-0.5, 0.5), sampleUniformContinuous(-0.5, 0.5));
+    ParticuleList _current;
+    bool _state = true;
 
-        //basic attributes
-        int _nbParticules;
-        float _initAngle;
-        glm::vec2 _initPos = glm::vec2(sampleUniformContinuous(-0.5, 0.5), sampleUniformContinuous(-0.5, 0.5));
-        ParticuleList _current;
-        bool _state = true;
+public:
+    // constructors
+    World();
+    World(Parameters p);
 
-    public : 
+    // loop function
+    void loopWorld(p6::Context &ctx, Parameters p);
 
-        //constructors
-        World();
-        World(Parameters p);
-        
-        //loop function
-        void loopWorld(p6::Context &ctx,  Parameters p);
+    // update functions
+    void createList();
 
-        //update functions
-        void createList();
+    void updateVar();
 
-        void updateVar();
+    void kill();
 
-        void kill();
-
-        //get function
-        ParticuleList getList();
-
+    // get function
+    ParticuleList getList();
 };
 
 #endif

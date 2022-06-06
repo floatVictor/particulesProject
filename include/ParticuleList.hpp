@@ -9,44 +9,42 @@
 #ifndef __PARTICULELIST__HPP
 #define __PARTICULELIST__HPP
 
-class ParticuleList {
+class ParticuleList
+{
 
-    private :
+private:
+    // basic attributes
+    glm::vec2 _initPos;
+    int _nbParticules;
+    std::vector<Particule> _tab;
 
-        //basic attributes
-        glm::vec2 _initPos;
-        int _nbParticules;
-        std::vector<Particule> _tab;
+    // lifeTime attributes
+    int _nbAlive;
+    bool _state = true;
 
-        //lifeTime attributes
-        int _nbAlive;
-        bool _state = true;
-        
-    public :
+public:
+    // constructors
+    ParticuleList();
+    ParticuleList(const glm::vec2 initPos, const float angle, Parameters p);
 
-        //constructors
-        ParticuleList();
-        ParticuleList(const glm::vec2 initPos, const float angle, Parameters p);
+    // basic functions
+    void loopList(p6::Context &ctx, Parameters p);
 
-        //basic functions
-        void loopList(p6::Context &ctx,  Parameters p);
+    void display(p6::Context &ctx, Parameters p, Particule &p1, Particule &p2);
 
-        void display(p6::Context &ctx, Parameters p, Particule &p1, Particule &p2);
+    // get functions
+    int getNbAlive();
 
-        //get functions
-        int getNbAlive();
+    bool getState();
 
-        bool getState();
+    glm::vec2 getInitPos();
 
-        glm::vec2 getInitPos();
+    Particule *getParticule(const int index);
 
-        Particule *getParticule(const int index);
+    // utility functions
+    void printList();
 
-        //utility functions
-        void printList();
-
-        void kill();
-
-};   
+    void kill();
+};
 
 #endif
