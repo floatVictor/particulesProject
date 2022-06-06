@@ -2,8 +2,8 @@
 
 COMMANDS :
 
-P : toogle UI
-S : take screenshot
+- P : toogle UI
+- S : take screenshot
 
 note : you can still have UI visible while taking screenshots
 
