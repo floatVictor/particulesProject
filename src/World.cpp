@@ -11,23 +11,30 @@
 #include "worldVar.hpp"
 #include "mathProbabilitiesLib.hpp"
 
+//constructos
+
+World::World() {};
+
 World::World(Parameters p) {
 
-    _nbParticule = p.NBPARTICULE;
-    _initAngle = p.INITANGLE;
-    _current = ParticuleList(glm::vec2(0,0), p.INITANGLE, p);
+    _nbParticules = p.LIST_NBPARTICULE;
+    _initAngle = p.LIST_INITANGLE;
+    _current = ParticuleList(glm::vec2(0,0), p.LIST_INITANGLE, p);
 }
+
+//loop function
         
 void World::loopWorld(p6::Context &ctx,  Parameters p) {
 
     if(!_current.getState()){
         updateVar();
         _current = ParticuleList(_initPos, _initAngle, p);
-        _listIterator ++;
     }
 
     _current.loopList(ctx, p);
 }
+
+//update functions
 
 void World::updateVar() {
 
@@ -37,3 +44,5 @@ void World::updateVar() {
 }
 
 void World::kill() { _current.kill();}
+
+ParticuleList World::getList() { return _current;}

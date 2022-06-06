@@ -335,17 +335,6 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\glue_memory_defs.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\execution_defs.h \
  C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Canvas.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\ImageCommon.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Color.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\variant \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\parse_numbers.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Image.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Key.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseButton.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseDrag.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseMove.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseScroll.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\filesystem \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_fwd.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\system_error \
@@ -353,6 +342,7 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\chrono \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ratio \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ctime c:\mingw\include\time.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\parse_numbers.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_path.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\locale \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h \
@@ -388,18 +378,29 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\glue_algorithm_defs.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_dir.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_ops.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\ImageCommon.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Color.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\variant \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Image.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Key.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseButton.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseDrag.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseMove.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\MouseScroll.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.h \
  C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Transform2D.h \
  C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Angle.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/op/include/op/op.hpp \
  C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math_constants.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/RectRenderer.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/TextRenderer.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/Time/Clock.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/Time/Clock_FixedTimestep.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/Time/Clock_Realtime.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/TriangleRenderer.h \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/UniqueGlfwWindow.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/ImGuiWrapper.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/include/GLFW/glfw3.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/RectRenderer.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/TextRenderer.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/Time/Clock.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/Time/Clock_FixedTimestep.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/Time/Clock_Realtime.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/TriangleRenderer.h \
+ C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal/UniqueGlfwWindow.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.hpp \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.inl \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glm/glm/gtx/vector_angle.hpp \
@@ -453,5 +454,10 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\glpp-extended\lib\glm\glm\gtx\transform.inl \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\glpp-extended\lib\glm\glm\gtx\rotate_vector.inl \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glm/glm/gtx/vector_angle.inl \
- C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details/ImGuiWrapper.h \
+ C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/img/include/img/img.hpp \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\img\src\image.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\img\src\Size.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\img\src\load.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\img\src\save.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\img\src\sizeu.h \
  C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.h

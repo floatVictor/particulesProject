@@ -11,13 +11,15 @@
 #include "worldVar.hpp"
 #include "mathProbabilitiesLib.hpp"
 
-ParticuleList::ParticuleList(){};
+//constructors
 
-ParticuleList::ParticuleList(const glm::vec2 initPos, const float angle, Parameters p){
+ParticuleList::ParticuleList() {};
+
+ParticuleList::ParticuleList(const glm::vec2 initPos, const float angle, Parameters p) {
     _initPos = initPos;
-    _nbParticules = p.NBPARTICULE;
+    _nbParticules = p.LIST_NBPARTICULE;
 
-    for (int i = 0; i < _nbParticules; i++){
+    for (int i = 0; i < _nbParticules; i++) {
         _tab.push_back(Particule(initPos, angle, p));
     }
     std::cout << "new list created" << std::endl;
@@ -26,7 +28,9 @@ ParticuleList::ParticuleList(const glm::vec2 initPos, const float angle, Paramet
               << "initAngle : "<< angle << std::endl;
 }
 
-void ParticuleList::loopList(p6::Context &ctx, Parameters p){
+//basic functions
+
+void ParticuleList::loopList(p6::Context &ctx, Parameters p) {
     Particule temp = _tab[0];
 
     for (Particule &par : _tab){
@@ -40,22 +44,24 @@ void ParticuleList::loopList(p6::Context &ctx, Parameters p){
 
 void ParticuleList::display(p6::Context &ctx, Parameters p, Particule &p1, Particule &p2) {
 
-    ctx.stroke = p6::Color{1 - p.perlin.noise1D(p.FRAMECOUNT * p.NOISE_SIZE * 0.5),1 - p.perlin.noise1D(p.FRAMECOUNT%53 * 0.01 * p.NOISE_SIZE), 1, p.LINE_OPACITY};
+    ctx.stroke = p6::Color{1 - float(p.perlin.noise1D(p.FRAMECOUNT * p.NOISE_SIZE * 0.5)),1 - float(p.perlin.noise1D(p.FRAMECOUNT%53 * 0.01 * p.NOISE_SIZE)), 1, p.LINE_OPACITY};
     ctx.stroke_weight = p.LINE_SIZE;
 
     if(p.FRAMECOUNT % p.LINE_TIME == 0) ctx.line(p1.getPos(), p2.getPos());
 }
 
-int ParticuleList::getNbAlive(){
+//get functions
+
+int ParticuleList::getNbAlive() {
     int temp = 0;
-    for (Particule p : _tab){
+    for (Particule p : _tab) {
         if (p.getState()) temp++;
     }
     _nbAlive = temp;
     return _nbAlive;
 }
 
-bool ParticuleList::getState(){
+bool ParticuleList::getState() {
     if (getNbAlive() <= 0) {
         _state = false;
         std::cout << "list is dead" << std::endl;
@@ -65,12 +71,14 @@ bool ParticuleList::getState(){
 
 glm::vec2 ParticuleList::getInitPos() { return glm::vec2(_initPos[0], _initPos[1]);}
 
-void ParticuleList::printList(){
+Particule *ParticuleList::getParticule(const int index){
+    return &_tab[index];
+}
+
+//utility functions
+
+void ParticuleList::printList() {
     std::cout << "nbAlive : " << getNbAlive() << std::endl << std::endl;
 }
 
 void ParticuleList::kill() {_state = false;}
-
-Particule *ParticuleList::getParticule(const int index){
-    return &_tab[index];
-}

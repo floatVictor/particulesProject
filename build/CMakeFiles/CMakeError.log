@@ -1,57 +1,57 @@
 Determining if the include file pthread.h exists failed with the following output:
 Change Dir: C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_920a6/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_920a6.dir\build.make CMakeFiles/cmTC_920a6.dir/build
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_f771f/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_f771f.dir\build.make CMakeFiles/cmTC_f771f.dir/build
 mingw32-make.exe[1]: Entering directory 'C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_920a6.dir/CheckIncludeFile.c.obj
-C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_920a6.dir\CheckIncludeFile.c.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+Building C object CMakeFiles/cmTC_f771f.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_f771f.dir\CheckIncludeFile.c.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
 C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: pthread.h: No such file or directory
     1 | #include <pthread.h>
       |          ^~~~~~~~~~~
 compilation terminated.
-CMakeFiles\cmTC_920a6.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_920a6.dir/CheckIncludeFile.c.obj' failed
-mingw32-make.exe[1]: *** [CMakeFiles/cmTC_920a6.dir/CheckIncludeFile.c.obj] Error 1
+CMakeFiles\cmTC_f771f.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_f771f.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_f771f.dir/CheckIncludeFile.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_920a6/fast' failed
-mingw32-make.exe: *** [cmTC_920a6/fast] Error 2
+Makefile:126: recipe for target 'cmTC_f771f/fast' failed
+mingw32-make.exe: *** [cmTC_f771f/fast] Error 2
 
 
 
 Determining if the include file dinput.h exists failed with the following output:
 Change Dir: C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_5d6b9/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5d6b9.dir\build.make CMakeFiles/cmTC_5d6b9.dir/build
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_2afbb/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_2afbb.dir\build.make CMakeFiles/cmTC_2afbb.dir/build
 mingw32-make.exe[1]: Entering directory 'C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5d6b9.dir/CheckIncludeFile.c.obj
-C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_5d6b9.dir\CheckIncludeFile.c.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+Building C object CMakeFiles/cmTC_2afbb.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_2afbb.dir\CheckIncludeFile.c.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
 C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: dinput.h: No such file or directory
     1 | #include <dinput.h>
       |          ^~~~~~~~~~
 compilation terminated.
-CMakeFiles\cmTC_5d6b9.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_5d6b9.dir/CheckIncludeFile.c.obj' failed
-mingw32-make.exe[1]: *** [CMakeFiles/cmTC_5d6b9.dir/CheckIncludeFile.c.obj] Error 1
+CMakeFiles\cmTC_2afbb.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_2afbb.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_2afbb.dir/CheckIncludeFile.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_5d6b9/fast' failed
-mingw32-make.exe: *** [cmTC_5d6b9/fast] Error 2
+Makefile:126: recipe for target 'cmTC_2afbb/fast' failed
+mingw32-make.exe: *** [cmTC_2afbb/fast] Error 2
 
 
 
 Determining if the include file xinput.h exists failed with the following output:
 Change Dir: C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_269a1/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_269a1.dir\build.make CMakeFiles/cmTC_269a1.dir/build
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_c0f3d/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c0f3d.dir\build.make CMakeFiles/cmTC_c0f3d.dir/build
 mingw32-make.exe[1]: Entering directory 'C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_269a1.dir/CheckIncludeFile.c.obj
-C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_269a1.dir\CheckIncludeFile.c.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+Building C object CMakeFiles/cmTC_c0f3d.dir/CheckIncludeFile.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_c0f3d.dir\CheckIncludeFile.c.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
 C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c:1:10: fatal error: xinput.h: No such file or directory
     1 | #include <xinput.h>
       |          ^~~~~~~~~~
 compilation terminated.
-CMakeFiles\cmTC_269a1.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_269a1.dir/CheckIncludeFile.c.obj' failed
-mingw32-make.exe[1]: *** [CMakeFiles/cmTC_269a1.dir/CheckIncludeFile.c.obj] Error 1
+CMakeFiles\cmTC_c0f3d.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_c0f3d.dir/CheckIncludeFile.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_c0f3d.dir/CheckIncludeFile.c.obj] Error 1
 mingw32-make.exe[1]: Leaving directory 'C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_269a1/fast' failed
-mingw32-make.exe: *** [cmTC_269a1/fast] Error 2
+Makefile:126: recipe for target 'cmTC_c0f3d/fast' failed
+mingw32-make.exe: *** [cmTC_c0f3d/fast] Error 2
 
 
 

@@ -241,15 +241,11 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "glad::@576123a86e4fc0b7e2df"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "glpp::@576123a86e4fc0b7e2df"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "stb_image::@ad7dc3a02c9ad3355eb9"
+			"id" : "glad::@576123a86e4fc0b7e2df"
 		},
 		{
 			"backtrace" : 2,
@@ -257,11 +253,15 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "exe_path::@2801de9f1cd2f3686d9e"
+			"id" : "stb_image::@ad7dc3a02c9ad3355eb9"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "glfw::@66c7204f1346f2199dd7"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "exe_path::@2801de9f1cd2f3686d9e"
 		},
 		{
 			"backtrace" : 2,

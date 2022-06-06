@@ -3,74 +3,29 @@
 
 p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp \
   ../p6/src/Canvas.h \
-  ../p6/src/ImageCommon.h \
-  ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
-  ../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp \
-  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h \
-  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
-  C:/MinGW/include/stdint.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
+  C:/MinGW/include/errno.h \
   C:/MinGW/include/_mingw.h \
   C:/MinGW/include/msvcrtver.h \
   C:/MinGW/include/w32api.h \
   C:/MinGW/include/sdkddkver.h \
   C:/MinGW/include/features.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/InternalFormat.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/TexelDataType.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/postypes.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar \
   C:/MinGW/include/wchar.h \
   C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
   C:/MinGW/include/sys/types.h \
   C:/MinGW/include/stdio.h \
   C:/MinGW/include/sys/types.h \
@@ -84,7 +39,37 @@ p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp \
   C:/MinGW/include/time.h \
   C:/MinGW/include/locale.h \
   C:/MinGW/include/process.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdint \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
+  C:/MinGW/include/stdint.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocator.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++allocator.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h \
@@ -92,18 +77,19 @@ p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale \
   C:/MinGW/include/locale.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cctype \
   C:/MinGW/include/ctype.h \
   C:/MinGW/include/wctype.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream_insert.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_forced.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/range_access.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/atomicity.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr-default.h \
-  C:/MinGW/include/errno.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/alloc_traits.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h \
@@ -119,14 +105,67 @@ p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdio \
   C:/MinGW/include/stdio.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/include/time.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
@@ -135,16 +174,27 @@ p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/vector \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_uninitialized.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_vector.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_bvector.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
+  ../p6/src/ImageCommon.h \
+  ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
+  ../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp \
+  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h \
+  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/InternalFormat.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/TexelDataType.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -332,7 +382,23 @@ p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp \
   ../p6/third-party/glpp-extended/src/internal/TextureBase.h \
   ../p6/third-party/glpp-extended/src/internal/TextureBase.tpp \
   ../p6/third-party/glpp-extended/src/Texture1D.h \
-  ../p6/third-party/glpp-extended/src/Texture3D.h
+  ../p6/third-party/glpp-extended/src/Texture3D.h \
+  ../p6/third-party/img/include/img/img.hpp \
+  ../p6/third-party/img/src/Image.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_lockfree_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
+  ../p6/third-party/img/src/Size.h \
+  ../p6/third-party/img/src/Load.h \
+  ../p6/third-party/img/src/Save.h \
+  ../p6/third-party/img/src/SizeU.h \
+  ../p6/src/internal/append_number_if_file_already_exists.h \
+  ../p6/src/internal/make_absolute_path.h \
+  ../p6/src/internal/make_directories_if_necessary.h
 
 p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp \
   ../p6/src/Context.h \
@@ -685,17 +751,6 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   ../p6/src/Canvas.h \
-  ../p6/src/ImageCommon.h \
-  ../p6/src/Color.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
-  ../p6/src/Image.h \
-  ../p6/src/Key.h \
-  ../p6/src/MouseButton.h \
-  ../p6/src/MouseDrag.h \
-  ../p6/src/MouseMove.h \
-  ../p6/src/MouseScroll.h \
-  ../p6/src/Shader.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
@@ -704,6 +759,7 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
   C:/MinGW/include/time.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h \
@@ -739,18 +795,29 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
+  ../p6/src/ImageCommon.h \
+  ../p6/src/Color.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
+  ../p6/src/Image.h \
+  ../p6/src/Key.h \
+  ../p6/src/MouseButton.h \
+  ../p6/src/MouseDrag.h \
+  ../p6/src/MouseMove.h \
+  ../p6/src/MouseScroll.h \
+  ../p6/src/Shader.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
   ../p6/src/math_constants.h \
-  ../p6/src/details/RectRenderer.h \
-  ../p6/src/details/TextRenderer.h \
-  ../p6/src/details/Time/Clock.h \
-  ../p6/src/details/Time/Clock_FixedTimestep.h \
-  ../p6/src/details/Time/Clock_Realtime.h \
-  ../p6/src/details/TriangleRenderer.h \
-  ../p6/src/details/UniqueGlfwWindow.h \
+  ../p6/src/internal/ImGuiWrapper.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
+  ../p6/src/internal/RectRenderer.h \
+  ../p6/src/internal/TextRenderer.h \
+  ../p6/src/internal/Time/Clock.h \
+  ../p6/src/internal/Time/Clock_FixedTimestep.h \
+  ../p6/src/internal/Time/Clock_Realtime.h \
+  ../p6/src/internal/TriangleRenderer.h \
+  ../p6/src/internal/UniqueGlfwWindow.h \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.hpp \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.inl \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/vector_angle.hpp \
@@ -804,78 +871,39 @@ p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/transform.inl \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/rotate_vector.inl \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/vector_angle.inl \
-  ../p6/src/details/ImGuiWrapper.h \
+  ../p6/third-party/img/include/img/img.hpp \
+  ../p6/third-party/img/src/Image.h \
+  ../p6/third-party/img/src/Size.h \
+  ../p6/third-party/img/src/Load.h \
+  ../p6/third-party/img/src/Save.h \
+  ../p6/third-party/img/src/SizeU.h \
   ../p6/src/math.h
 
 p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp \
   ../p6/src/Image.h \
-  ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
-  ../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp \
-  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h \
-  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
-  C:/MinGW/include/stdint.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
+  C:/MinGW/include/errno.h \
   C:/MinGW/include/_mingw.h \
   C:/MinGW/include/msvcrtver.h \
   C:/MinGW/include/w32api.h \
   C:/MinGW/include/sdkddkver.h \
   C:/MinGW/include/features.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/InternalFormat.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/TexelDataType.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
-  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/postypes.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar \
   C:/MinGW/include/wchar.h \
   C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
   C:/MinGW/include/sys/types.h \
   C:/MinGW/include/stdio.h \
   C:/MinGW/include/sys/types.h \
@@ -889,7 +917,37 @@ p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp \
   C:/MinGW/include/time.h \
   C:/MinGW/include/locale.h \
   C:/MinGW/include/process.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdint \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
+  C:/MinGW/include/stdint.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocator.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++allocator.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h \
@@ -897,18 +955,19 @@ p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale \
   C:/MinGW/include/locale.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cctype \
   C:/MinGW/include/ctype.h \
   C:/MinGW/include/wctype.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream_insert.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_forced.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/range_access.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/atomicity.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr-default.h \
-  C:/MinGW/include/errno.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/alloc_traits.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h \
@@ -924,14 +983,67 @@ p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdio \
   C:/MinGW/include/stdio.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/include/time.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
@@ -940,16 +1052,26 @@ p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/vector \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_uninitialized.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_vector.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_bvector.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
+  ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
+  ../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp \
+  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h \
+  ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/InternalFormat.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/TexelDataType.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
+  ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -1143,21 +1265,16 @@ p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp \
   ../p6/third-party/img/src/Image.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_lockfree_defines.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   ../p6/third-party/img/src/Size.h \
   ../p6/third-party/img/src/Load.h \
   ../p6/third-party/img/src/Save.h \
-  ../p6/third-party/img/src/SizeU.h
+  ../p6/third-party/img/src/SizeU.h \
+  ../p6/src/internal/make_absolute_path.h
 
 p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: ../p6/src/Shader.cpp \
   ../p6/src/Shader.h \
@@ -1540,6 +1657,7 @@ p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: ../p6/src/Shader.cpp \
   ../p6/third-party/glpp-extended/src/internal/TextureBase.tpp \
   ../p6/third-party/glpp-extended/src/Texture1D.h \
   ../p6/third-party/glpp-extended/src/Texture3D.h \
+  ../p6/src/ImageCommon.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
@@ -1551,7 +1669,8 @@ p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: ../p6/src/Shader.cpp \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.hpp \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.inl \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iterator \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stream_iterator.h
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stream_iterator.h \
+  ../p6/src/internal/make_absolute_path.h
 
 p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj: ../p6/src/Transform2D.cpp \
   ../p6/src/Transform2D.h \
@@ -1757,8 +1876,8 @@ p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj: ../p6/src/Transform2D.cpp \
   ../p6/src/math_constants.h \
   ../p6/src/math.h
 
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj: ../p6/src/details/ImGuiWrapper.cpp \
-  ../p6/src/details/ImGuiWrapper.h \
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj: ../p6/src/internal/ImGuiWrapper.cpp \
+  ../p6/src/internal/ImGuiWrapper.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
@@ -1831,8 +1950,8 @@ p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj: ../p6/src/details/ImGuiWr
   C:/MinGW/include/limits.h \
   ../p6/third-party/imgui/imstb_textedit.h
 
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj: ../p6/src/details/RectRenderer.cpp \
-  ../p6/src/details/RectRenderer.h \
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj: ../p6/src/internal/RectRenderer.cpp \
+  ../p6/src/internal/RectRenderer.h \
   ../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp \
   ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h \
   ../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h \
@@ -1991,8 +2110,8 @@ p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj: ../p6/src/details/RectRen
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueBuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueVertexArray.h
 
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: ../p6/src/details/TextRenderer.cpp \
-  ../p6/src/details/TextRenderer.h \
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj: ../p6/src/internal/TextRenderer.cpp \
+  ../p6/src/internal/TextRenderer.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
@@ -2316,18 +2435,6 @@ p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: ../p6/src/details/TextRen
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
   ../p6/src/Image.h \
-  ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
-  ../p6/third-party/glpp-extended/src/Program.h \
-  ../p6/third-party/glpp-extended/src/RenderTarget.h \
-  ../p6/third-party/glpp-extended/src/ImageSize.h \
-  ../p6/third-party/glpp-extended/src/Texture2D.h \
-  ../p6/third-party/glpp-extended/src/TextureLayout.h \
-  ../p6/third-party/glpp-extended/src/internal/TextureBase.h \
-  ../p6/third-party/glpp-extended/src/internal/TextureBase.tpp \
-  ../p6/third-party/glpp-extended/src/Texture1D.h \
-  ../p6/third-party/glpp-extended/src/Texture3D.h \
-  ../p6/src/ImageCommon.h \
-  ../p6/src/Shader.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
@@ -2377,6 +2484,18 @@ p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: ../p6/src/details/TextRen
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
+  ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
+  ../p6/third-party/glpp-extended/src/Program.h \
+  ../p6/third-party/glpp-extended/src/RenderTarget.h \
+  ../p6/third-party/glpp-extended/src/ImageSize.h \
+  ../p6/third-party/glpp-extended/src/Texture2D.h \
+  ../p6/third-party/glpp-extended/src/TextureLayout.h \
+  ../p6/third-party/glpp-extended/src/internal/TextureBase.h \
+  ../p6/third-party/glpp-extended/src/internal/TextureBase.tpp \
+  ../p6/third-party/glpp-extended/src/Texture1D.h \
+  ../p6/third-party/glpp-extended/src/Texture3D.h \
+  ../p6/src/ImageCommon.h \
+  ../p6/src/Shader.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
@@ -2385,15 +2504,15 @@ p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: ../p6/src/details/TextRen
   ../p6/third-party/img/lib/stb_image/stb_image.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdlib.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iostream \
-  ../p6/src/details/CharCorrespondanceTable.h \
+  ../p6/src/internal/CharCorrespondanceTable.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/map \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tree.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_map.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_multimap.h \
-  ../p6/src/details/font_atlas
+  ../p6/src/internal/font_atlas
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj: ../p6/src/details/Time/Clock.cpp \
-  ../p6/src/details/Time/Clock.h \
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj: ../p6/src/internal/Time/Clock.cpp \
+  ../p6/src/internal/Time/Clock.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cassert \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
@@ -2406,9 +2525,9 @@ p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj: ../p6/src/details/Time/Cloc
   C:/MinGW/include/sdkddkver.h \
   C:/MinGW/include/features.h
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj: ../p6/src/details/Time/Clock_FixedTimestep.cpp \
-  ../p6/src/details/Time/Clock_FixedTimestep.h \
-  ../p6/src/details/Time/Clock.h \
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj: ../p6/src/internal/Time/Clock_FixedTimestep.cpp \
+  ../p6/src/internal/Time/Clock_FixedTimestep.h \
+  ../p6/src/internal/Time/Clock.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cmath \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
@@ -2457,8 +2576,8 @@ p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj: ../p6/src/det
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/poly_laguerre.tcc \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/riemann_zeta.tcc
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj: ../p6/src/details/Time/Clock_Realtime.cpp \
-  ../p6/src/details/Time/Clock_Realtime.h \
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj: ../p6/src/internal/Time/Clock_Realtime.cpp \
+  ../p6/src/internal/Time/Clock_Realtime.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
@@ -2480,10 +2599,10 @@ p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj: ../p6/src/details/
   C:/MinGW/include/time.h \
   C:/MinGW/include/sys/types.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
-  ../p6/src/details/Time/Clock.h
+  ../p6/src/internal/Time/Clock.h
 
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj: ../p6/src/details/TriangleRenderer.cpp \
-  ../p6/src/details/TriangleRenderer.h \
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj: ../p6/src/internal/TriangleRenderer.cpp \
+  ../p6/src/internal/TriangleRenderer.h \
   ../p6/third-party/glpp-extended/lib/glm/glm/glm.hpp \
   ../p6/third-party/glpp-extended/lib/glm/glm/detail/_fixes.hpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cmath \
@@ -2814,8 +2933,8 @@ p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj: ../p6/src/details/Tri
   ../p6/third-party/glpp-extended/src/Texture1D.h \
   ../p6/third-party/glpp-extended/src/Texture3D.h
 
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj: ../p6/src/details/UniqueGlfwWindow.cpp \
-  ../p6/src/details/UniqueGlfwWindow.h \
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj: ../p6/src/internal/UniqueGlfwWindow.cpp \
+  ../p6/src/internal/UniqueGlfwWindow.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
@@ -2974,6 +3093,550 @@ p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj: ../p6/src/details/Uni
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/assert_is_bound.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueBuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueVertexArray.h
+
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj: ../p6/src/internal/append_number_if_file_already_exists.cpp \
+  ../p6/src/internal/append_number_if_file_already_exists.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
+  C:/MinGW/include/errno.h \
+  C:/MinGW/include/_mingw.h \
+  C:/MinGW/include/msvcrtver.h \
+  C:/MinGW/include/w32api.h \
+  C:/MinGW/include/sdkddkver.h \
+  C:/MinGW/include/features.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/postypes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar \
+  C:/MinGW/include/wchar.h \
+  C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
+  C:/MinGW/include/sys/types.h \
+  C:/MinGW/include/stdio.h \
+  C:/MinGW/include/sys/types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdarg.h \
+  C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/direct.h \
+  C:/MinGW/include/sys/stat.h \
+  C:/MinGW/include/conio.h \
+  C:/MinGW/include/io.h \
+  C:/MinGW/include/stdint.h \
+  C:/MinGW/include/time.h \
+  C:/MinGW/include/locale.h \
+  C:/MinGW/include/process.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdint \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
+  C:/MinGW/include/stdint.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/localefwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale \
+  C:/MinGW/include/locale.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cctype \
+  C:/MinGW/include/ctype.h \
+  C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream_insert.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_forced.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/range_access.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/atomicity.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr-default.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/alloc_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string_view \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/limits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functional_hash.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/string_view.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/string_conversions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdlib \
+  C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/errno.h \
+  C:/MinGW/include/alloca.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdio \
+  C:/MinGW/include/stdio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/include/time.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/vector \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_uninitialized.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_vector.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_bvector.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h
+
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj: ../p6/src/internal/make_absolute_path.cpp \
+  ../p6/src/internal/make_absolute_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
+  C:/MinGW/include/errno.h \
+  C:/MinGW/include/_mingw.h \
+  C:/MinGW/include/msvcrtver.h \
+  C:/MinGW/include/w32api.h \
+  C:/MinGW/include/sdkddkver.h \
+  C:/MinGW/include/features.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/postypes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar \
+  C:/MinGW/include/wchar.h \
+  C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
+  C:/MinGW/include/sys/types.h \
+  C:/MinGW/include/stdio.h \
+  C:/MinGW/include/sys/types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdarg.h \
+  C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/direct.h \
+  C:/MinGW/include/sys/stat.h \
+  C:/MinGW/include/conio.h \
+  C:/MinGW/include/io.h \
+  C:/MinGW/include/stdint.h \
+  C:/MinGW/include/time.h \
+  C:/MinGW/include/locale.h \
+  C:/MinGW/include/process.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdint \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
+  C:/MinGW/include/stdint.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/localefwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale \
+  C:/MinGW/include/locale.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cctype \
+  C:/MinGW/include/ctype.h \
+  C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream_insert.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_forced.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/range_access.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/atomicity.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr-default.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/alloc_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string_view \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/limits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functional_hash.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/string_view.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/string_conversions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdlib \
+  C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/errno.h \
+  C:/MinGW/include/alloca.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdio \
+  C:/MinGW/include/stdio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/include/time.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/vector \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_uninitialized.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_vector.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_bvector.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
+  ../p6/third-party/exe_path/include/exe_path/exe_path.h
+
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj: ../p6/src/internal/make_directories_if_necessary.cpp \
+  ../p6/src/internal/make_directories_if_necessary.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno \
+  C:/MinGW/include/errno.h \
+  C:/MinGW/include/_mingw.h \
+  C:/MinGW/include/msvcrtver.h \
+  C:/MinGW/include/w32api.h \
+  C:/MinGW/include/sdkddkver.h \
+  C:/MinGW/include/features.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/postypes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar \
+  C:/MinGW/include/wchar.h \
+  C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h \
+  C:/MinGW/include/sys/types.h \
+  C:/MinGW/include/stdio.h \
+  C:/MinGW/include/sys/types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdarg.h \
+  C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/direct.h \
+  C:/MinGW/include/sys/stat.h \
+  C:/MinGW/include/conio.h \
+  C:/MinGW/include/io.h \
+  C:/MinGW/include/stdint.h \
+  C:/MinGW/include/time.h \
+  C:/MinGW/include/locale.h \
+  C:/MinGW/include/process.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdint \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h \
+  C:/MinGW/include/stdint.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/localefwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale \
+  C:/MinGW/include/locale.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cctype \
+  C:/MinGW/include/ctype.h \
+  C:/MinGW/include/wctype.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream_insert.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_forced.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/range_access.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/atomicity.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr-default.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/alloc_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string_view \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/limits \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functional_hash.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/string_view.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/string_conversions.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdlib \
+  C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/errno.h \
+  C:/MinGW/include/alloca.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdio \
+  C:/MinGW/include/stdio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/include/time.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/vector \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_uninitialized.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_vector.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_bvector.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h
 
 p6/CMakeFiles/p6.dir/src/math.cpp.obj: ../p6/src/math.cpp \
   ../p6/src/math.h \
@@ -3201,99 +3864,47 @@ p6/CMakeFiles/p6.dir/src/math.cpp.obj: ../p6/src/math.cpp \
   ../p6/third-party/glpp-extended/lib/glm/glm/gtx/rotate_vector.inl
 
 
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/setup.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h:
+
 ../p6/src/MouseDrag.h:
 
 C:/MinGW/include/sdkddkver.h:
 
 ../p6/src/Canvas.cpp:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_int3_sized.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_uint2_sized.hpp:
-
-../p6/src/ImageCommon.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h:
-
 ../p6/src/Canvas.h:
 
-../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueVertexArray.h:
 
-../p6/third-party/glpp-extended/include/glpp/extended.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_geometric.hpp:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float3x3_precision.hpp:
 
-C:/MinGW/include/_mingw.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc:
-
-../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h:
-
-../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h:
-
-C:/MinGW/include/stdint.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h:
-
-C:/MinGW/include/msvcrtver.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h:
 
 C:/MinGW/include/w32api.h:
 
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error:
 
-C:/MinGW/include/features.h:
+C:/MinGW/include/stdlib.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/InternalFormat.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h:
-
-../p6/src/math.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/detail/type_quat.hpp:
-
-../p6/third-party/glpp-extended/lib/glm/glm/vec2.hpp:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float2x2_precision.hpp:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h:
-
-../p6/src/Image.cpp:
-
-../p6/third-party/glpp-extended/lib/glm/glm/detail/_vectorize.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/string_conversions.h:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/TexelDataType.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat3x2.inl:
 
@@ -3301,33 +3912,75 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h:
-
-C:/MinGW/include/io.h:
-
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float3x3_precision.hpp:
+C:/MinGW/include/io.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++config.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_int3_sized.hpp:
 
-../p6/third-party/glpp-extended/lib/glm/glm/detail/setup.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/new:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/move.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x4_precision.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/os_defines.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/vector.tcc:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/new_allocator.h:
+C:/MinGW/include/direct.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/cpu_defines.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_exponential.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float2x3_precision.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float3x4.hpp:
+
+../p6/third-party/glpp-extended/lib/glm/glm/fwd.hpp:
+
+C:/MinGW/include/wctype.h:
+
+../p6/src/Angle.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/func_packing.inl:
+
+C:/MinGW/include/errno.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_geometric.hpp:
+
+C:/MinGW/include/_mingw.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/type_traits.h:
+
+C:/MinGW/include/msvcrtver.h:
+
+C:/MinGW/include/features.h:
+
+C:/MinGW/include/stdint.h:
+
+../p6/src/internal/TextRenderer.cpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_int2_sized.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h:
 
@@ -3339,131 +3992,33 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/postypes.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdexcept:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.tcc:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_int2_sized.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwchar:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/concept_check.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_bool3_precision.hpp:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_uint2.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_double.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/vec3.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double2x3.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cassert:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iostream:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple:
-
-../p6/third-party/glpp-extended/lib/glm/glm/detail/compute_common.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_bool3.hpp:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/scalar_uint_sized.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list:
-
-../p6/src/details/UniqueGlfwWindow.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/assertions.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_exponential.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stringfwd.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/memoryfwd.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h:
-
-../p6/src/details/ImGuiWrapper.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/modified_bessel_func.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string_view:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueVertexArray.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h:
+C:/MinGW/include/process.h:
 
 C:/MinGW/include/wchar.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float3x4.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/fwd.hpp:
+C:/MinGW/include/locale.h:
 
-C:/MinGW/include/wctype.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/stddef.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h:
 
 C:/MinGW/include/sys/types.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/func_integer.inl:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h:
 
 C:/MinGW/include/stdio.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdarg.h:
 
-C:/MinGW/include/stdlib.h:
+../p6/third-party/glpp-extended/lib/glm/glm/vec3.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x4_precision.hpp:
-
-C:/MinGW/include/direct.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/typeinfo:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc:
 
@@ -3481,17 +4036,67 @@ C:/MinGW/include/conio.h:
 
 C:/MinGW/include/time.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/alloc_traits.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/exception:
 
-C:/MinGW/include/locale.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_abs.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_double.hpp:
 
-C:/MinGW/include/process.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_defines.h:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/InternalFormat.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_pair.h:
+
+../p6/src/math.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_init_exception.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double2x3.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cassert:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hash_bytes.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_funcs.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/type_traits:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algobase.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functexcept.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/modified_bessel_func.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cpp_type_traits.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/numeric_traits.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator_base_types.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string_view:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/debug/debug.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iostream:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/predefined_ops.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdint:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/stdint.h:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueProgram.h:
 
@@ -3503,9 +4108,11 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++allocator.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/localefwd.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale:
+../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/KHR/khrplatform.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iosfwd:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++locale.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/clocale:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_quat.inl:
 
@@ -3525,9 +4132,19 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream_insert.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/cxxabi_forced.h:
 
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_function.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_bool3_precision.hpp:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_uint2.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/binders.h:
+
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Shader.tpp:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/range_access.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/initializer_list:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.h:
 
@@ -3537,27 +4154,29 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/gthr-default.h:
 
-../p6/src/Angle.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/detail/func_packing.inl:
-
-C:/MinGW/include/errno.h:
-
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/alloc_traits.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/limits:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf:
-
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstddef:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h:
 
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/streambuf:
+
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/functional_hash.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/string_view.tcc:
+
+../p6/src/Image.cpp:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/_vectorize.hpp:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/TexelDataType.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/string_conversions.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdlib:
 
@@ -3567,25 +4186,161 @@ C:/MinGW/include/alloca.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cstdio:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float2x3_precision.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cerrno:
-
-../p6/src/details/Time/Clock_FixedTimestep.cpp:
-
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_string.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat4x2.inl:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime:
+
+../p6/third-party/img/include/img/img.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/compute_common.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/utility:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_bool3.hpp:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/scalar_uint_sized.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_relops.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double3x3.hpp:
+
+C:/MinGW/include/assert.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h:
+
+../p6/src/Context.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cwctype:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/ell_integral.tcc:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/raw.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float3x4_precision.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_geometric.inl:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h:
+
+../p6/third-party/imgui/imgui.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/climits:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h:
+
+../p6/src/internal/make_absolute_path.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array:
+
+../p6/src/internal/TextRenderer.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h:
 
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/qualifier.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h:
+
+../p6/third-party/glpp-extended/lib/glpp/include/glpp/glpp.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.tcc:
+
+../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat2x2.inl:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h:
+
 C:/MinGW/include/float.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_double_precision.hpp:
+
+../p6/src/Shader.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h:
+
+../p6/src/internal/UniqueGlfwWindow.cpp:
+
+../p6/third-party/glpp-extended/include/glpp/extended.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional:
 
 C:/MinGW/include/string.h:
 
@@ -3596,6 +4351,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h:
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x4.hpp:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h:
+
+../p6/src/internal/RectRenderer.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h:
 
@@ -3615,8 +4372,6 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/vector:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_construct.h:
-
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_uninitialized.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h:
@@ -3627,37 +4382,37 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_vector.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_bvector.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_uint2_sized.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio:
+../p6/src/ImageCommon.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat4x2.inl:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h:
+../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_double_precision.hpp:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h:
 
-../p6/src/Shader.h:
+../p6/third-party/glpp-extended/lib/glm/glm/detail/type_quat.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h:
+../p6/third-party/glpp-extended/lib/glm/glm/vec2.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float2x2_precision.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h:
 
 ../p6/third-party/glpp-extended/src/ImageSize.h:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_vec2.hpp:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/MaybeError.h:
+
+../p6/src/internal/CharCorrespondanceTable.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_trigonometric.inl:
 
@@ -3665,11 +4420,7 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueShader.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/ell_integral.tcc:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/raw.h:
+../p6/src/internal/UniqueGlfwWindow.h:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueBuffer.h:
 
@@ -3741,19 +4492,9 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/poly_hermite.tcc:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/riemann_zeta.tcc:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double3x3.hpp:
-
-C:/MinGW/include/assert.h:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat3x4.inl:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/simd/platform.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/climits:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtc/constants.inl:
 
@@ -3767,10 +4508,6 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/cfloat:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/float.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream:
-
-../p6/third-party/glpp-extended/lib/glm/glm/detail/qualifier.hpp:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_bool2.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double3x2.hpp:
@@ -3778,6 +4515,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/istream:
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_vec2.inl:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/compute_vector_relational.hpp:
+
+../p6/src/internal/ImGuiWrapper.cpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_bool2_precision.hpp:
 
@@ -3823,8 +4562,6 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++io.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_vec4.hpp:
 
-../p6/src/details/ImGuiWrapper.cpp:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_vec4.inl:
 
 ../p6/third-party/imgui/imstb_textedit.h:
@@ -3842,10 +4579,6 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/c++io.h:
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat4x4.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double2x2.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream:
-
-../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat2x2.inl:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/norm.inl:
 
@@ -3915,10 +4648,6 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ostream:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double3x4_precision.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float3x4_precision.hpp:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_relational.inl:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/mat4x2.hpp:
@@ -3934,6 +4663,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/streambuf_iterator.h:
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x3_precision.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_float_precision.hpp:
+
+../p6/src/internal/Time/Clock_FixedTimestep.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/mat4x4.hpp:
 
@@ -3991,39 +4722,35 @@ C:/MinGW/include/strings.h:
 
 ../p6/third-party/glpp-extended/src/Texture3D.h:
 
-../p6/src/Context.cpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.h:
-
-../p6/src/Context.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h:
-
-../p6/third-party/imgui/imgui.h:
-
-../p6/third-party/imgui/imconfig.h:
-
-../p6/third-party/imgui/misc/cpp/imgui_stdlib.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h:
-
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_projection.hpp:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h:
 
+../p6/third-party/img/src/Size.h:
+
+../p6/third-party/img/src/Load.h:
+
+../p6/third-party/img/src/Save.h:
+
+../p6/third-party/glpp-extended/lib/glm/glm/gtx/rotate_vector.hpp:
+
+../p6/third-party/img/src/SizeU.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/math.h:
+
+../p6/src/internal/append_number_if_file_already_exists.h:
+
+../p6/src/internal/make_directories_if_necessary.h:
+
+../p6/src/Context.cpp:
+
+../p6/third-party/imgui/imconfig.h:
+
+../p6/third-party/imgui/misc/cpp/imgui_stdlib.h:
+
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant:
-
-../p6/third-party/img/include/img/img.hpp:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h:
 
 ../p6/src/Key.h:
 
@@ -4033,67 +4760,25 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h:
 
 ../p6/src/MouseScroll.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/system_error:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h:
-
-../p6/src/details/Time/Clock_Realtime.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_base.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ios_base.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/ctype_inline.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_geometric.inl:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ios:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/basic_ios.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ostream.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/istream.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm:
-
 ../p6/src/Transform2D.h:
-
-../p6/src/details/RectRenderer.h:
 
 ../p6/third-party/op/include/op/op.hpp:
 
 ../p6/src/math_constants.h:
 
-../p6/src/details/TextRenderer.h:
+../p6/third-party/glpp-extended/lib/glm/glm/gtc/quaternion.inl:
 
-../p6/src/details/Time/Clock.h:
+../p6/src/internal/ImGuiWrapper.h:
 
-../p6/src/details/Time/Clock_FixedTimestep.h:
+../p6/src/internal/Time/Clock.h:
 
-../p6/src/details/TriangleRenderer.h:
+../p6/src/internal/Time/Clock_Realtime.h:
+
+../p6/src/internal/TriangleRenderer.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/matrix_transform_2d.inl:
-
-../p6/src/details/CharCorrespondanceTable.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/vector_angle.hpp:
 
@@ -4127,17 +4812,11 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_map.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/quaternion_transform.inl:
 
-../p6/third-party/glpp-extended/lib/glm/glm/gtc/quaternion.inl:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/norm.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/component_wise.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/component_wise.inl:
-
-../p6/third-party/img/src/SizeU.h:
-
-../p6/third-party/glpp-extended/lib/glm/glm/gtx/rotate_vector.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/transform.hpp:
 
@@ -4147,19 +4826,13 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_map.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/gtx/vector_angle.inl:
 
-../p6/third-party/img/src/Size.h:
-
-../p6/third-party/img/src/Load.h:
-
-../p6/src/details/font_atlas:
-
-../p6/third-party/img/src/Save.h:
-
 ../p6/src/Shader.cpp:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/basic_file.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fstream.tcc:
+
+../p6/src/internal/make_directories_if_necessary.cpp:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iterator:
 
@@ -4173,20 +4846,22 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stream_iterator.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdlib.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/math.h:
-
-../p6/src/details/RectRenderer.cpp:
-
-../p6/src/details/TextRenderer.cpp:
+../p6/src/internal/RectRenderer.cpp:
 
 ../p6/third-party/exe_path/include/exe_path/exe_path.h:
 
 ../p6/third-party/img/lib/stb_image/stb_image.h:
 
-../p6/src/details/Time/Clock.cpp:
+../p6/src/internal/font_atlas:
 
-../p6/src/details/Time/Clock_Realtime.cpp:
+../p6/src/internal/Time/Clock.cpp:
 
-../p6/src/details/TriangleRenderer.cpp:
+../p6/src/internal/Time/Clock_FixedTimestep.cpp:
 
-../p6/src/details/UniqueGlfwWindow.cpp:
+../p6/src/internal/Time/Clock_Realtime.cpp:
+
+../p6/src/internal/TriangleRenderer.cpp:
+
+../p6/src/internal/append_number_if_file_already_exists.cpp:
+
+../p6/src/internal/make_absolute_path.cpp:

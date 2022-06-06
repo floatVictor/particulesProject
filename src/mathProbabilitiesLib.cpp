@@ -31,7 +31,7 @@ int binomialCoefficient(int n, int k) {
 // Basic random number generator, between 0 and 1 (prerequisite)
 double sampleRandomBetweenZeroAndOne() {
     static std::random_device rd; // obtain a random number from hardware
-    static std::mt19937 gen(rd()); // seed the generator
+    static std::mt19937 gen(rd()); // seed the generator ; use rand() if mingw doesnt work well with rd
     std::uniform_real_distribution<> distr(0., 1.); // define the range
     return distr(gen); // generate numbers
 }

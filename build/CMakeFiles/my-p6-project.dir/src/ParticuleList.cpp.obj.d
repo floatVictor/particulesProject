@@ -122,6 +122,57 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iterator \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stream_iterator.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/include/p6/p6.h \
+ C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/exe_path/include/exe_path/exe_path.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\filesystem \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_fwd.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\chrono \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ratio \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ctime \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\parse_numbers.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_path.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\locale \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_facets_nonio.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\time_members.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\messages_members.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\codecvt.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_facets_nonio.tcc \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_conv.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\unique_ptr.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\tuple \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\array \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\uses_allocator.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\invoke.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iomanip \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\quoted_string.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\sstream \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\sstream.tcc \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\codecvt \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ext\concurrence.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\shared_ptr.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\shared_ptr_base.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\allocated_ptr.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\refwrap.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ext\aligned_buffer.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\algorithm \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\algorithmfwd.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_heap.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_tempbuf.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\uniform_int_dist.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\glue_algorithm_defs.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\functional \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\std_function.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\unordered_map \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\hashtable.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\hashtable_policy.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\node_handle.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\optional \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\enable_special_members.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\unordered_map.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\erase_if.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\execution_defs.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_dir.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_ops.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\canvas.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\ImageCommon.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/include/glpp/extended.hpp \
@@ -137,27 +188,6 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\functional \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\tuple \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\array \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\uses_allocator.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\invoke.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\refwrap.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\std_function.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\unordered_map \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ext\aligned_buffer.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\hashtable.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\hashtable_policy.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\node_handle.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\optional \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\enable_special_members.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\unordered_map.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\erase_if.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\algorithmfwd.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_heap.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_tempbuf.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\uniform_int_dist.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -346,7 +376,6 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\third-party\glpp-extended\src\texture3d.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\color.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\variant \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\parse_numbers.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\context.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imgui.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/imconfig.h \
@@ -355,17 +384,11 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/imgui/misc/cpp/imgui_stdlib.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\memory \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_raw_storage_iter.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ext\concurrence.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\unique_ptr.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\shared_ptr.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\shared_ptr_base.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\allocated_ptr.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\shared_ptr_atomic.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\atomic_base.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\atomic_lockfree_defines.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\backward\auto_ptr.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\glue_memory_defs.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\execution_defs.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\Image.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\Key.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\MouseButton.h \
@@ -373,40 +396,19 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\MouseMove.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\MouseScroll.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\Shader.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\filesystem \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_fwd.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\chrono \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ratio \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ctime \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_path.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\locale \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_facets_nonio.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\time_members.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\messages_members.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\codecvt.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_facets_nonio.tcc \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_conv.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iomanip \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\quoted_string.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\sstream \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\sstream.tcc \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\codecvt \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\algorithm \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\pstl\glue_algorithm_defs.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_dir.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\fs_ops.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\Transform2D.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\Angle.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/op/include/op/op.hpp \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\math_constants.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/RectRenderer.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/TextRenderer.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/Time/Clock.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/Time/Clock_FixedTimestep.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/Time/Clock_Realtime.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/TriangleRenderer.h \
- c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\details/UniqueGlfwWindow.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/ImGuiWrapper.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/third-party/glfw/include/GLFW/glfw3.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/RectRenderer.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/TextRenderer.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/Time/Clock.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/Time/Clock_FixedTimestep.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/Time/Clock_Realtime.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/TriangleRenderer.h \
+ c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\internal/UniqueGlfwWindow.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\namedcolor.h \
  c:\users\victo\desktop\imac2s2\c++\particulesproject\particulesproject\p6\src\math.h \
  C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/include/Particule.hpp \

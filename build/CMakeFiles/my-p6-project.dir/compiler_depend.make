@@ -133,6 +133,57 @@ CMakeFiles/my-p6-project.dir/src/Particule.cpp.obj: ../src/Particule.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdlib.h \
   C:/MinGW/include/time.h \
   ../p6/include/p6/p6.h \
+  ../p6/third-party/exe_path/include/exe_path/exe_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Canvas.h \
   ../p6/src/ImageCommon.h \
   ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
@@ -148,27 +199,6 @@ CMakeFiles/my-p6-project.dir/src/Particule.cpp.obj: ../src/Particule.cpp \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -359,7 +389,6 @@ CMakeFiles/my-p6-project.dir/src/Particule.cpp.obj: ../src/Particule.cpp \
   ../p6/third-party/glpp-extended/src/Texture3D.h \
   ../p6/src/Color.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
   ../p6/src/Context.h \
   ../p6/third-party/imgui/imgui.h \
   ../p6/third-party/imgui/imconfig.h \
@@ -369,17 +398,11 @@ CMakeFiles/my-p6-project.dir/src/Particule.cpp.obj: ../src/Particule.cpp \
   ../p6/third-party/imgui/misc/cpp/imgui_stdlib.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_lockfree_defines.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   ../p6/src/Image.h \
   ../p6/src/Key.h \
   ../p6/src/MouseButton.h \
@@ -387,40 +410,19 @@ CMakeFiles/my-p6-project.dir/src/Particule.cpp.obj: ../src/Particule.cpp \
   ../p6/src/MouseMove.h \
   ../p6/src/MouseScroll.h \
   ../p6/src/Shader.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
   ../p6/src/math_constants.h \
-  ../p6/src/details/RectRenderer.h \
-  ../p6/src/details/TextRenderer.h \
-  ../p6/src/details/Time/Clock.h \
-  ../p6/src/details/Time/Clock_FixedTimestep.h \
-  ../p6/src/details/Time/Clock_Realtime.h \
-  ../p6/src/details/TriangleRenderer.h \
-  ../p6/src/details/UniqueGlfwWindow.h \
+  ../p6/src/internal/ImGuiWrapper.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
+  ../p6/src/internal/RectRenderer.h \
+  ../p6/src/internal/TextRenderer.h \
+  ../p6/src/internal/Time/Clock.h \
+  ../p6/src/internal/Time/Clock_FixedTimestep.h \
+  ../p6/src/internal/Time/Clock_Realtime.h \
+  ../p6/src/internal/TriangleRenderer.h \
+  ../p6/src/internal/UniqueGlfwWindow.h \
   ../p6/src/NamedColor.h \
   ../p6/src/math.h \
   ../include/Particule.hpp \
@@ -573,6 +575,57 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: ../src/ParticuleList.cpp
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iterator \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stream_iterator.h \
   ../p6/include/p6/p6.h \
+  ../p6/third-party/exe_path/include/exe_path/exe_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Canvas.h \
   ../p6/src/ImageCommon.h \
   ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
@@ -588,27 +641,6 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: ../src/ParticuleList.cpp
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -799,7 +831,6 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: ../src/ParticuleList.cpp
   ../p6/third-party/glpp-extended/src/Texture3D.h \
   ../p6/src/Color.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
   ../p6/src/Context.h \
   ../p6/third-party/imgui/imgui.h \
   ../p6/third-party/imgui/imconfig.h \
@@ -809,17 +840,11 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: ../src/ParticuleList.cpp
   ../p6/third-party/imgui/misc/cpp/imgui_stdlib.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_lockfree_defines.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   ../p6/src/Image.h \
   ../p6/src/Key.h \
   ../p6/src/MouseButton.h \
@@ -827,40 +852,19 @@ CMakeFiles/my-p6-project.dir/src/ParticuleList.cpp.obj: ../src/ParticuleList.cpp
   ../p6/src/MouseMove.h \
   ../p6/src/MouseScroll.h \
   ../p6/src/Shader.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
   ../p6/src/math_constants.h \
-  ../p6/src/details/RectRenderer.h \
-  ../p6/src/details/TextRenderer.h \
-  ../p6/src/details/Time/Clock.h \
-  ../p6/src/details/Time/Clock_FixedTimestep.h \
-  ../p6/src/details/Time/Clock_Realtime.h \
-  ../p6/src/details/TriangleRenderer.h \
-  ../p6/src/details/UniqueGlfwWindow.h \
+  ../p6/src/internal/ImGuiWrapper.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
+  ../p6/src/internal/RectRenderer.h \
+  ../p6/src/internal/TextRenderer.h \
+  ../p6/src/internal/Time/Clock.h \
+  ../p6/src/internal/Time/Clock_FixedTimestep.h \
+  ../p6/src/internal/Time/Clock_Realtime.h \
+  ../p6/src/internal/TriangleRenderer.h \
+  ../p6/src/internal/UniqueGlfwWindow.h \
   ../p6/src/NamedColor.h \
   ../p6/src/math.h \
   ../include/Particule.hpp \
@@ -1010,6 +1014,57 @@ CMakeFiles/my-p6-project.dir/src/World.cpp.obj: ../src/World.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdlib.h \
   C:/MinGW/include/time.h \
   ../p6/include/p6/p6.h \
+  ../p6/third-party/exe_path/include/exe_path/exe_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Canvas.h \
   ../p6/src/ImageCommon.h \
   ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
@@ -1025,27 +1080,6 @@ CMakeFiles/my-p6-project.dir/src/World.cpp.obj: ../src/World.cpp \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -1236,7 +1270,6 @@ CMakeFiles/my-p6-project.dir/src/World.cpp.obj: ../src/World.cpp \
   ../p6/third-party/glpp-extended/src/Texture3D.h \
   ../p6/src/Color.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
   ../p6/src/Context.h \
   ../p6/third-party/imgui/imgui.h \
   ../p6/third-party/imgui/imconfig.h \
@@ -1246,17 +1279,11 @@ CMakeFiles/my-p6-project.dir/src/World.cpp.obj: ../src/World.cpp \
   ../p6/third-party/imgui/misc/cpp/imgui_stdlib.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_lockfree_defines.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   ../p6/src/Image.h \
   ../p6/src/Key.h \
   ../p6/src/MouseButton.h \
@@ -1264,40 +1291,19 @@ CMakeFiles/my-p6-project.dir/src/World.cpp.obj: ../src/World.cpp \
   ../p6/src/MouseMove.h \
   ../p6/src/MouseScroll.h \
   ../p6/src/Shader.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
   ../p6/src/math_constants.h \
-  ../p6/src/details/RectRenderer.h \
-  ../p6/src/details/TextRenderer.h \
-  ../p6/src/details/Time/Clock.h \
-  ../p6/src/details/Time/Clock_FixedTimestep.h \
-  ../p6/src/details/Time/Clock_Realtime.h \
-  ../p6/src/details/TriangleRenderer.h \
-  ../p6/src/details/UniqueGlfwWindow.h \
+  ../p6/src/internal/ImGuiWrapper.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
+  ../p6/src/internal/RectRenderer.h \
+  ../p6/src/internal/TextRenderer.h \
+  ../p6/src/internal/Time/Clock.h \
+  ../p6/src/internal/Time/Clock_FixedTimestep.h \
+  ../p6/src/internal/Time/Clock_Realtime.h \
+  ../p6/src/internal/TriangleRenderer.h \
+  ../p6/src/internal/UniqueGlfwWindow.h \
   ../p6/src/NamedColor.h \
   ../p6/src/math.h \
   ../include/Particule.hpp \
@@ -1450,6 +1456,57 @@ CMakeFiles/my-p6-project.dir/src/main.cpp.obj: ../src/main.cpp \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/stdlib.h \
   C:/MinGW/include/time.h \
   ../p6/include/p6/p6.h \
+  ../p6/third-party/exe_path/include/exe_path/exe_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
+  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Canvas.h \
   ../p6/src/ImageCommon.h \
   ../p6/third-party/glpp-extended/include/glpp/extended.hpp \
@@ -1465,27 +1522,6 @@ CMakeFiles/my-p6-project.dir/src/main.cpp.obj: ../src/main.cpp \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Framebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tuple \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/std_function.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/optional \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/internal/UniqueHandle.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h \
   ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h \
@@ -1676,7 +1712,6 @@ CMakeFiles/my-p6-project.dir/src/main.cpp.obj: ../src/main.cpp \
   ../p6/third-party/glpp-extended/src/Texture3D.h \
   ../p6/src/Color.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h \
   ../p6/src/Context.h \
   ../p6/third-party/imgui/imgui.h \
   ../p6/third-party/imgui/imconfig.h \
@@ -1686,17 +1721,11 @@ CMakeFiles/my-p6-project.dir/src/main.cpp.obj: ../src/main.cpp \
   ../p6/third-party/imgui/misc/cpp/imgui_stdlib.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_base.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/atomic_lockfree_defines.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h \
   C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_memory_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h \
   ../p6/src/Image.h \
   ../p6/src/Key.h \
   ../p6/src/MouseButton.h \
@@ -1704,40 +1733,19 @@ CMakeFiles/my-p6-project.dir/src/main.cpp.obj: ../src/main.cpp \
   ../p6/src/MouseMove.h \
   ../p6/src/MouseScroll.h \
   ../p6/src/Shader.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/messages_members.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_conv.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h \
-  C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_ops.h \
   ../p6/src/Transform2D.h \
   ../p6/src/Angle.h \
   ../p6/third-party/op/include/op/op.hpp \
   ../p6/src/math_constants.h \
-  ../p6/src/details/RectRenderer.h \
-  ../p6/src/details/TextRenderer.h \
-  ../p6/src/details/Time/Clock.h \
-  ../p6/src/details/Time/Clock_FixedTimestep.h \
-  ../p6/src/details/Time/Clock_Realtime.h \
-  ../p6/src/details/TriangleRenderer.h \
-  ../p6/src/details/UniqueGlfwWindow.h \
+  ../p6/src/internal/ImGuiWrapper.h \
   ../p6/third-party/glfw/include/GLFW/glfw3.h \
+  ../p6/src/internal/RectRenderer.h \
+  ../p6/src/internal/TextRenderer.h \
+  ../p6/src/internal/Time/Clock.h \
+  ../p6/src/internal/Time/Clock_FixedTimestep.h \
+  ../p6/src/internal/Time/Clock_Realtime.h \
+  ../p6/src/internal/TriangleRenderer.h \
+  ../p6/src/internal/UniqueGlfwWindow.h \
   ../p6/src/NamedColor.h \
   ../p6/src/math.h \
   ../include/Particule.hpp \
@@ -1925,9 +1933,9 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_algo.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/nested_exception.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h:
-
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/check_errors.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/glue_algorithm_defs.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/pstl_config.h:
 
@@ -2033,9 +2041,9 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/char_traits.h:
 
 C:/MinGW/include/sys/types.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/func_integer.inl:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/concurrence.h:
 
 C:/MinGW/include/stdio.h:
 
@@ -2049,9 +2057,9 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/erase_if.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/exception_ptr.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x4_precision.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/codecvt.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/error_constants.h:
 
@@ -2125,9 +2133,9 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string_view:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_iterator.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem:
-
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueVertexArray.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/filesystem:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/ptr_traits.h:
 
@@ -2169,11 +2177,7 @@ C:/MinGW/include/errno.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/atomic_word.h:
 
-../p6/src/details/Time/Clock_Realtime.h:
-
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_classes.h:
-
-../p6/src/details/UniqueGlfwWindow.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/string:
 
@@ -2309,37 +2313,49 @@ C:/MinGW/include/math.h:
 
 ../p6/include/p6/p6.h:
 
-../p6/src/Canvas.h:
+../p6/third-party/exe_path/include/exe_path/exe_path.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_uint2_sized.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory:
 
-../p6/src/ImageCommon.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional:
+../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat4x2.inl:
 
-../p6/third-party/glpp-extended/include/glpp/extended.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h:
 
-../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio:
 
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/vec2.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime:
 
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float2x2_precision.hpp:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h:
 
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double3x3.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h:
+C:/MinGW/include/assert.h:
 
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale:
 
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_numeric.h:
+
+../p6/third-party/imgui/imgui.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/climits:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/array:
+
+../p6/src/internal/TextRenderer.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h:
 
@@ -2347,13 +2363,47 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uses_allocator.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/invoke.h:
 
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h:
+
 C:/MinGW/include/float.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/refwrap.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/iomanip:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Wrap.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/unordered_map:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ext/aligned_buffer.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h:
+
+../p6/src/Shader.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h:
+
+../p6/third-party/glpp-extended/include/glpp/extended.hpp:
+
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/functional:
 
 ../src/World.cpp:
 
@@ -2364,6 +2414,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable.h:
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x4.hpp:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/hashtable_policy.h:
+
+../p6/src/internal/RectRenderer.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/node_handle.h:
 
@@ -2377,31 +2429,31 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/enable_special_members.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unordered_map.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/algorithmfwd.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/vector_uint2_sized.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ratio:
+../p6/src/ImageCommon.h:
 
-../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat4x2.inl:
+C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/pstl/execution_defs.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_heap.h:
+../p6/src/Canvas.h:
 
-../p6/src/Shader.h:
+../p6/third-party/glpp-extended/lib/glpp/third-party/glad/include/glad/glad.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_raw_storage_iter.h:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Channels.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_tempbuf.h:
+../p6/third-party/glpp-extended/lib/glm/glm/vec2.hpp:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_dir.h:
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/Interpolation.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/uniform_int_dist.h:
+../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_float2x2_precision.hpp:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/Enums/ShaderType.h:
+
+../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueFramebuffer.h:
 
 ../p6/third-party/glpp-extended/src/ImageSize.h:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Miscellaneous.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime:
-
-../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Program.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_vec2.hpp:
 
@@ -2412,6 +2464,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/ctime:
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/Functions/Shader.h:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueShader.h:
+
+../p6/src/internal/UniqueGlfwWindow.h:
 
 ../p6/third-party/glpp-extended/lib/glpp/src/glpp/UniqueHandles/UniqueBuffer.h:
 
@@ -2475,19 +2529,9 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/poly_hermite.tcc:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/tr1/riemann_zeta.tcc:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/locale:
-
-../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double3x3.hpp:
-
-C:/MinGW/include/assert.h:
-
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat3x4.inl:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/simd/platform.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/unique_ptr.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/climits:
 
 C:/MinGW/include/limits.h:
 
@@ -2629,6 +2673,8 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/float.h:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/ext/matrix_double4x3_precision.hpp:
 
+../p6/src/internal/Time/Clock_FixedTimestep.h:
+
 ../p6/third-party/glpp-extended/lib/glm/glm/mat4x4.hpp:
 
 ../p6/third-party/glpp-extended/lib/glm/glm/detail/type_mat4x4.inl:
@@ -2685,25 +2731,9 @@ C:/MinGW/include/strings.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/variant:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/parse_numbers.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/stl_numeric.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/mingw32/bits/time_members.h:
-
-../p6/third-party/imgui/imgui.h:
-
 ../p6/third-party/imgui/imconfig.h:
 
 ../p6/third-party/imgui/misc/cpp/imgui_stdlib.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/chrono:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/memory:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_base.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/allocated_ptr.h:
 
 C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/shared_ptr_atomic.h:
 
@@ -2717,37 +2747,19 @@ C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/backward/auto_ptr.h:
 
 ../p6/src/MouseScroll.h:
 
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_fwd.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/fs_path.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/locale_facets_nonio.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/quoted_string.h:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/sstream:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/bits/sstream.tcc:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/codecvt:
-
-C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++/algorithm:
-
 ../p6/src/Transform2D.h:
-
-../p6/src/details/RectRenderer.h:
 
 ../p6/third-party/op/include/op/op.hpp:
 
 ../p6/src/math_constants.h:
 
-../p6/src/details/TextRenderer.h:
+../p6/src/internal/ImGuiWrapper.h:
 
-../p6/src/details/Time/Clock.h:
+../p6/src/internal/Time/Clock.h:
 
-../p6/src/details/Time/Clock_FixedTimestep.h:
+../p6/src/internal/Time/Clock_Realtime.h:
 
-../p6/src/details/TriangleRenderer.h:
+../p6/src/internal/TriangleRenderer.h:
 
 ../include/worldVar.hpp:
 

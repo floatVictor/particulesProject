@@ -13,16 +13,22 @@ class Particule {
 
     private :
 
+        //basic attributes
         glm::vec2 _pos;
         float _size = 0.001;
-        float _angle; //0-360
+        float _angle; //[0;360]
         float _speed = 0.0015;
+
+        //color attributes
         p6::Color _color;
         float _opacity;
+
+        //lifeTime attributes
         bool _state = true;
         float _life;
-        float _lifeIterator = sampleUniformContinuous(0.0005, 0.001); //vitesse de viellissement
+        float _lifeIterator = sampleUniformContinuous(0.0005, 0.001); //how fast _life decrease
 
+        //custom event attributes
         bool _noiseEventGo = false;
         bool _sizeEventGo = false;
 
@@ -30,11 +36,11 @@ class Particule {
     
     public :
 
+        //constructors
         Particule();
         Particule(const glm::vec2 &pos, const float angle, Parameters p);
 
         //Basic functions
-        
         void update(Parameters p);
 
         void displayParticule(p6::Context &ctx, Parameters p);

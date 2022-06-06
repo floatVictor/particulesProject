@@ -68,41 +68,11 @@ include p6/CMakeFiles/p6.dir/progress.make
 # Include the compile flags for this target's objects.
 include p6/CMakeFiles/p6.dir/flags.make
 
-p6/CMakeFiles/p6.dir/src/Context.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/Context.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp
-p6/CMakeFiles/p6.dir/src/Context.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object p6/CMakeFiles/p6.dir/src/Context.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Context.cpp.obj -MF CMakeFiles\p6.dir\src\Context.cpp.obj.d -o CMakeFiles\p6.dir\src\Context.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Context.cpp
-
-p6/CMakeFiles/p6.dir/src/Context.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/Context.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Context.cpp > CMakeFiles\p6.dir\src\Context.cpp.i
-
-p6/CMakeFiles/p6.dir/src/Context.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Context.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Context.cpp -o CMakeFiles\p6.dir\src\Context.cpp.s
-
-p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: ../p6/src/Shader.cpp
-p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object p6/CMakeFiles/p6.dir/src/Shader.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Shader.cpp.obj -MF CMakeFiles\p6.dir\src\Shader.cpp.obj.d -o CMakeFiles\p6.dir\src\Shader.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.cpp
-
-p6/CMakeFiles/p6.dir/src/Shader.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/Shader.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.cpp > CMakeFiles\p6.dir\src\Shader.cpp.i
-
-p6/CMakeFiles/p6.dir/src/Shader.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Shader.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.cpp -o CMakeFiles\p6.dir\src\Shader.cpp.s
-
 p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
 p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
 p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: ../p6/src/Canvas.cpp
 p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj -MF CMakeFiles\p6.dir\src\Canvas.cpp.obj.d -o CMakeFiles\p6.dir\src\Canvas.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Canvas.cpp
 
 p6/CMakeFiles/p6.dir/src/Canvas.cpp.i: cmake_force
@@ -113,11 +83,26 @@ p6/CMakeFiles/p6.dir/src/Canvas.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Canvas.cpp.s"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Canvas.cpp -o CMakeFiles\p6.dir\src\Canvas.cpp.s
 
+p6/CMakeFiles/p6.dir/src/Context.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/Context.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/Context.cpp.obj: ../p6/src/Context.cpp
+p6/CMakeFiles/p6.dir/src/Context.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object p6/CMakeFiles/p6.dir/src/Context.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Context.cpp.obj -MF CMakeFiles\p6.dir\src\Context.cpp.obj.d -o CMakeFiles\p6.dir\src\Context.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Context.cpp
+
+p6/CMakeFiles/p6.dir/src/Context.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/Context.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Context.cpp > CMakeFiles\p6.dir\src\Context.cpp.i
+
+p6/CMakeFiles/p6.dir/src/Context.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Context.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Context.cpp -o CMakeFiles\p6.dir\src\Context.cpp.s
+
 p6/CMakeFiles/p6.dir/src/Image.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
 p6/CMakeFiles/p6.dir/src/Image.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
 p6/CMakeFiles/p6.dir/src/Image.cpp.obj: ../p6/src/Image.cpp
 p6/CMakeFiles/p6.dir/src/Image.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object p6/CMakeFiles/p6.dir/src/Image.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object p6/CMakeFiles/p6.dir/src/Image.cpp.obj"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Image.cpp.obj -MF CMakeFiles\p6.dir\src\Image.cpp.obj.d -o CMakeFiles\p6.dir\src\Image.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Image.cpp
 
 p6/CMakeFiles/p6.dir/src/Image.cpp.i: cmake_force
@@ -128,26 +113,26 @@ p6/CMakeFiles/p6.dir/src/Image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Image.cpp.s"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Image.cpp -o CMakeFiles\p6.dir\src\Image.cpp.s
 
-p6/CMakeFiles/p6.dir/src/math.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/math.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/math.cpp.obj: ../p6/src/math.cpp
-p6/CMakeFiles/p6.dir/src/math.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object p6/CMakeFiles/p6.dir/src/math.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/math.cpp.obj -MF CMakeFiles\p6.dir\src\math.cpp.obj.d -o CMakeFiles\p6.dir\src\math.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.cpp
+p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: ../p6/src/Shader.cpp
+p6/CMakeFiles/p6.dir/src/Shader.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object p6/CMakeFiles/p6.dir/src/Shader.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Shader.cpp.obj -MF CMakeFiles\p6.dir\src\Shader.cpp.obj.d -o CMakeFiles\p6.dir\src\Shader.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.cpp
 
-p6/CMakeFiles/p6.dir/src/math.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/math.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.cpp > CMakeFiles\p6.dir\src\math.cpp.i
+p6/CMakeFiles/p6.dir/src/Shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/Shader.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.cpp > CMakeFiles\p6.dir\src\Shader.cpp.i
 
-p6/CMakeFiles/p6.dir/src/math.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/math.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.cpp -o CMakeFiles\p6.dir\src\math.cpp.s
+p6/CMakeFiles/p6.dir/src/Shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Shader.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Shader.cpp -o CMakeFiles\p6.dir\src\Shader.cpp.s
 
 p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
 p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
 p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj: ../p6/src/Transform2D.cpp
 p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj -MF CMakeFiles\p6.dir\src\Transform2D.cpp.obj.d -o CMakeFiles\p6.dir\src\Transform2D.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Transform2D.cpp
 
 p6/CMakeFiles/p6.dir/src/Transform2D.cpp.i: cmake_force
@@ -158,163 +143,229 @@ p6/CMakeFiles/p6.dir/src/Transform2D.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/Transform2D.cpp.s"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\Transform2D.cpp -o CMakeFiles\p6.dir\src\Transform2D.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj: ../p6/src/details/ImGuiWrapper.cpp
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj -MF CMakeFiles\p6.dir\src\details\ImGuiWrapper.cpp.obj.d -o CMakeFiles\p6.dir\src\details\ImGuiWrapper.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\ImGuiWrapper.cpp
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj: ../p6/src/internal/ImGuiWrapper.cpp
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj -MF CMakeFiles\p6.dir\src\internal\ImGuiWrapper.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\ImGuiWrapper.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\ImGuiWrapper.cpp
 
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\ImGuiWrapper.cpp > CMakeFiles\p6.dir\src\details\ImGuiWrapper.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\ImGuiWrapper.cpp > CMakeFiles\p6.dir\src\internal\ImGuiWrapper.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\ImGuiWrapper.cpp -o CMakeFiles\p6.dir\src\details\ImGuiWrapper.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\ImGuiWrapper.cpp -o CMakeFiles\p6.dir\src\internal\ImGuiWrapper.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj: ../p6/src/details/UniqueGlfwWindow.cpp
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj -MF CMakeFiles\p6.dir\src\details\UniqueGlfwWindow.cpp.obj.d -o CMakeFiles\p6.dir\src\details\UniqueGlfwWindow.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\UniqueGlfwWindow.cpp
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj: ../p6/src/internal/RectRenderer.cpp
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj -MF CMakeFiles\p6.dir\src\internal\RectRenderer.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\RectRenderer.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\RectRenderer.cpp
 
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\UniqueGlfwWindow.cpp > CMakeFiles\p6.dir\src\details\UniqueGlfwWindow.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\RectRenderer.cpp > CMakeFiles\p6.dir\src\internal\RectRenderer.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\UniqueGlfwWindow.cpp -o CMakeFiles\p6.dir\src\details\UniqueGlfwWindow.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\RectRenderer.cpp -o CMakeFiles\p6.dir\src\internal\RectRenderer.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj: ../p6/src/details/Time/Clock.cpp
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj -MF CMakeFiles\p6.dir\src\details\Time\Clock.cpp.obj.d -o CMakeFiles\p6.dir\src\details\Time\Clock.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock.cpp
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj: ../p6/src/internal/TextRenderer.cpp
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj -MF CMakeFiles\p6.dir\src\internal\TextRenderer.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\TextRenderer.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\TextRenderer.cpp
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/Time/Clock.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock.cpp > CMakeFiles\p6.dir\src\details\Time\Clock.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\TextRenderer.cpp > CMakeFiles\p6.dir\src\internal\TextRenderer.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/Time/Clock.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock.cpp -o CMakeFiles\p6.dir\src\details\Time\Clock.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\TextRenderer.cpp -o CMakeFiles\p6.dir\src\internal\TextRenderer.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj: ../p6/src/details/Time/Clock_FixedTimestep.cpp
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj -MF CMakeFiles\p6.dir\src\details\Time\Clock_FixedTimestep.cpp.obj.d -o CMakeFiles\p6.dir\src\details\Time\Clock_FixedTimestep.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock_FixedTimestep.cpp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj: ../p6/src/internal/Time/Clock.cpp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj -MF CMakeFiles\p6.dir\src\internal\Time\Clock.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\Time\Clock.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock.cpp
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock_FixedTimestep.cpp > CMakeFiles\p6.dir\src\details\Time\Clock_FixedTimestep.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock.cpp > CMakeFiles\p6.dir\src\internal\Time\Clock.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock_FixedTimestep.cpp -o CMakeFiles\p6.dir\src\details\Time\Clock_FixedTimestep.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock.cpp -o CMakeFiles\p6.dir\src\internal\Time\Clock.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj: ../p6/src/details/Time/Clock_Realtime.cpp
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj -MF CMakeFiles\p6.dir\src\details\Time\Clock_Realtime.cpp.obj.d -o CMakeFiles\p6.dir\src\details\Time\Clock_Realtime.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock_Realtime.cpp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj: ../p6/src/internal/Time/Clock_FixedTimestep.cpp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj -MF CMakeFiles\p6.dir\src\internal\Time\Clock_FixedTimestep.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\Time\Clock_FixedTimestep.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock_FixedTimestep.cpp
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock_Realtime.cpp > CMakeFiles\p6.dir\src\details\Time\Clock_Realtime.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock_FixedTimestep.cpp > CMakeFiles\p6.dir\src\internal\Time\Clock_FixedTimestep.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\Time\Clock_Realtime.cpp -o CMakeFiles\p6.dir\src\details\Time\Clock_Realtime.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock_FixedTimestep.cpp -o CMakeFiles\p6.dir\src\internal\Time\Clock_FixedTimestep.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj: ../p6/src/details/RectRenderer.cpp
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj -MF CMakeFiles\p6.dir\src\details\RectRenderer.cpp.obj.d -o CMakeFiles\p6.dir\src\details\RectRenderer.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\RectRenderer.cpp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj: ../p6/src/internal/Time/Clock_Realtime.cpp
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj -MF CMakeFiles\p6.dir\src\internal\Time\Clock_Realtime.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\Time\Clock_Realtime.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock_Realtime.cpp
 
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/RectRenderer.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\RectRenderer.cpp > CMakeFiles\p6.dir\src\details\RectRenderer.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock_Realtime.cpp > CMakeFiles\p6.dir\src\internal\Time\Clock_Realtime.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/RectRenderer.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\RectRenderer.cpp -o CMakeFiles\p6.dir\src\details\RectRenderer.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\Time\Clock_Realtime.cpp -o CMakeFiles\p6.dir\src\internal\Time\Clock_Realtime.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj: ../p6/src/details/TriangleRenderer.cpp
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj -MF CMakeFiles\p6.dir\src\details\TriangleRenderer.cpp.obj.d -o CMakeFiles\p6.dir\src\details\TriangleRenderer.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\TriangleRenderer.cpp
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj: ../p6/src/internal/TriangleRenderer.cpp
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj -MF CMakeFiles\p6.dir\src\internal\TriangleRenderer.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\TriangleRenderer.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\TriangleRenderer.cpp
 
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\TriangleRenderer.cpp > CMakeFiles\p6.dir\src\details\TriangleRenderer.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\TriangleRenderer.cpp > CMakeFiles\p6.dir\src\internal\TriangleRenderer.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\TriangleRenderer.cpp -o CMakeFiles\p6.dir\src\details\TriangleRenderer.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\TriangleRenderer.cpp -o CMakeFiles\p6.dir\src\internal\TriangleRenderer.cpp.s
 
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: ../p6/src/details/TextRenderer.cpp
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj -MF CMakeFiles\p6.dir\src\details\TextRenderer.cpp.obj.d -o CMakeFiles\p6.dir\src\details\TextRenderer.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\TextRenderer.cpp
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj: ../p6/src/internal/UniqueGlfwWindow.cpp
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj -MF CMakeFiles\p6.dir\src\internal\UniqueGlfwWindow.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\UniqueGlfwWindow.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\UniqueGlfwWindow.cpp
 
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/details/TextRenderer.cpp.i"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\TextRenderer.cpp > CMakeFiles\p6.dir\src\details\TextRenderer.cpp.i
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\UniqueGlfwWindow.cpp > CMakeFiles\p6.dir\src\internal\UniqueGlfwWindow.cpp.i
 
-p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/details/TextRenderer.cpp.s"
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\details\TextRenderer.cpp -o CMakeFiles\p6.dir\src\details\TextRenderer.cpp.s
+p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\UniqueGlfwWindow.cpp -o CMakeFiles\p6.dir\src\internal\UniqueGlfwWindow.cpp.s
+
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj: ../p6/src/internal/append_number_if_file_already_exists.cpp
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj -MF CMakeFiles\p6.dir\src\internal\append_number_if_file_already_exists.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\append_number_if_file_already_exists.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\append_number_if_file_already_exists.cpp
+
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\append_number_if_file_already_exists.cpp > CMakeFiles\p6.dir\src\internal\append_number_if_file_already_exists.cpp.i
+
+p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\append_number_if_file_already_exists.cpp -o CMakeFiles\p6.dir\src\internal\append_number_if_file_already_exists.cpp.s
+
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj: ../p6/src/internal/make_absolute_path.cpp
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj -MF CMakeFiles\p6.dir\src\internal\make_absolute_path.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\make_absolute_path.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\make_absolute_path.cpp
+
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\make_absolute_path.cpp > CMakeFiles\p6.dir\src\internal\make_absolute_path.cpp.i
+
+p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\make_absolute_path.cpp -o CMakeFiles\p6.dir\src\internal\make_absolute_path.cpp.s
+
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj: ../p6/src/internal/make_directories_if_necessary.cpp
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj -MF CMakeFiles\p6.dir\src\internal\make_directories_if_necessary.cpp.obj.d -o CMakeFiles\p6.dir\src\internal\make_directories_if_necessary.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\make_directories_if_necessary.cpp
+
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\make_directories_if_necessary.cpp > CMakeFiles\p6.dir\src\internal\make_directories_if_necessary.cpp.i
+
+p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\internal\make_directories_if_necessary.cpp -o CMakeFiles\p6.dir\src\internal\make_directories_if_necessary.cpp.s
+
+p6/CMakeFiles/p6.dir/src/math.cpp.obj: p6/CMakeFiles/p6.dir/flags.make
+p6/CMakeFiles/p6.dir/src/math.cpp.obj: p6/CMakeFiles/p6.dir/includes_CXX.rsp
+p6/CMakeFiles/p6.dir/src/math.cpp.obj: ../p6/src/math.cpp
+p6/CMakeFiles/p6.dir/src/math.cpp.obj: p6/CMakeFiles/p6.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object p6/CMakeFiles/p6.dir/src/math.cpp.obj"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT p6/CMakeFiles/p6.dir/src/math.cpp.obj -MF CMakeFiles\p6.dir\src\math.cpp.obj.d -o CMakeFiles\p6.dir\src\math.cpp.obj -c C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.cpp
+
+p6/CMakeFiles/p6.dir/src/math.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/p6.dir/src/math.cpp.i"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.cpp > CMakeFiles\p6.dir\src\math.cpp.i
+
+p6/CMakeFiles/p6.dir/src/math.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/p6.dir/src/math.cpp.s"
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && C:\MinGW\bin\mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\p6\src\math.cpp -o CMakeFiles\p6.dir\src\math.cpp.s
 
 # Object files for target p6
 p6_OBJECTS = \
-"CMakeFiles/p6.dir/src/Context.cpp.obj" \
-"CMakeFiles/p6.dir/src/Shader.cpp.obj" \
 "CMakeFiles/p6.dir/src/Canvas.cpp.obj" \
+"CMakeFiles/p6.dir/src/Context.cpp.obj" \
 "CMakeFiles/p6.dir/src/Image.cpp.obj" \
-"CMakeFiles/p6.dir/src/math.cpp.obj" \
+"CMakeFiles/p6.dir/src/Shader.cpp.obj" \
 "CMakeFiles/p6.dir/src/Transform2D.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj" \
-"CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj"
+"CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj" \
+"CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj" \
+"CMakeFiles/p6.dir/src/math.cpp.obj"
 
 # External object files for target p6
 p6_EXTERNAL_OBJECTS =
 
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/Context.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/Shader.cpp.obj
 p6/libp6.a: p6/CMakeFiles/p6.dir/src/Canvas.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/Context.cpp.obj
 p6/libp6.a: p6/CMakeFiles/p6.dir/src/Image.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/math.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/Shader.cpp.obj
 p6/libp6.a: p6/CMakeFiles/p6.dir/src/Transform2D.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj
-p6/libp6.a: p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj
+p6/libp6.a: p6/CMakeFiles/p6.dir/src/math.cpp.obj
 p6/libp6.a: p6/CMakeFiles/p6.dir/build.make
 p6/libp6.a: p6/CMakeFiles/p6.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX static library libp6.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX static library libp6.a"
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && $(CMAKE_COMMAND) -P CMakeFiles\p6.dir\cmake_clean_target.cmake
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build\p6 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\p6.dir\link.txt --verbose=$(VERBOSE)
 

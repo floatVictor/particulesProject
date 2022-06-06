@@ -17,6 +17,62 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# P6_SOURCES at p6/CMakeLists.txt:47 (file)
+file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/*")
+set(OLD_GLOB
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Angle.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Canvas.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Canvas.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Color.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Context.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Context.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Image.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Image.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/ImageCommon.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Key.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/MouseButton.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/MouseDrag.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/MouseMove.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/MouseScroll.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/NamedColor.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Shader.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Shader.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Transform2D.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/Transform2D.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/_README.md"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/CharCorrespondanceTable.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/ImGuiWrapper.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/ImGuiWrapper.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/RectRenderer.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/RectRenderer.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/TextRenderer.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/TextRenderer.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/Time/Clock.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/Time/Clock.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/Time/Clock_FixedTimestep.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/Time/Clock_FixedTimestep.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/Time/Clock_Realtime.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/Time/Clock_Realtime.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/TriangleRenderer.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/TriangleRenderer.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/UniqueGlfwWindow.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/UniqueGlfwWindow.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/append_number_if_file_already_exists.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/append_number_if_file_already_exists.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/font_atlas"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/make_absolute_path.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/make_absolute_path.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/make_directories_if_necessary.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/internal/make_directories_if_necessary.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/math.cpp"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/math.h"
+  "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/p6/src/math_constants.h"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/build/CMakeFiles/cmake.verify_globs")
+endif()
+
 # MY_SOURCES at CMakeLists.txt:12 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/victo/Desktop/IMAC2S2/C++/particulesProject/particulesProject/src/*")
 set(OLD_GLOB

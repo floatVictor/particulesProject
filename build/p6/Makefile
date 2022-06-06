@@ -295,197 +295,269 @@ src/Transform2D.cpp.s:
 	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/Transform2D.cpp.s
 .PHONY : src/Transform2D.cpp.s
 
-src/details/ImGuiWrapper.obj: src/details/ImGuiWrapper.cpp.obj
-.PHONY : src/details/ImGuiWrapper.obj
+src/internal/ImGuiWrapper.obj: src/internal/ImGuiWrapper.cpp.obj
+.PHONY : src/internal/ImGuiWrapper.obj
 
 # target to build an object file
-src/details/ImGuiWrapper.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.obj
-.PHONY : src/details/ImGuiWrapper.cpp.obj
+src/internal/ImGuiWrapper.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.obj
+.PHONY : src/internal/ImGuiWrapper.cpp.obj
 
-src/details/ImGuiWrapper.i: src/details/ImGuiWrapper.cpp.i
-.PHONY : src/details/ImGuiWrapper.i
+src/internal/ImGuiWrapper.i: src/internal/ImGuiWrapper.cpp.i
+.PHONY : src/internal/ImGuiWrapper.i
 
 # target to preprocess a source file
-src/details/ImGuiWrapper.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.i
-.PHONY : src/details/ImGuiWrapper.cpp.i
+src/internal/ImGuiWrapper.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.i
+.PHONY : src/internal/ImGuiWrapper.cpp.i
 
-src/details/ImGuiWrapper.s: src/details/ImGuiWrapper.cpp.s
-.PHONY : src/details/ImGuiWrapper.s
+src/internal/ImGuiWrapper.s: src/internal/ImGuiWrapper.cpp.s
+.PHONY : src/internal/ImGuiWrapper.s
 
 # target to generate assembly for a file
-src/details/ImGuiWrapper.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/ImGuiWrapper.cpp.s
-.PHONY : src/details/ImGuiWrapper.cpp.s
+src/internal/ImGuiWrapper.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/ImGuiWrapper.cpp.s
+.PHONY : src/internal/ImGuiWrapper.cpp.s
 
-src/details/RectRenderer.obj: src/details/RectRenderer.cpp.obj
-.PHONY : src/details/RectRenderer.obj
+src/internal/RectRenderer.obj: src/internal/RectRenderer.cpp.obj
+.PHONY : src/internal/RectRenderer.obj
 
 # target to build an object file
-src/details/RectRenderer.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.obj
-.PHONY : src/details/RectRenderer.cpp.obj
+src/internal/RectRenderer.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.obj
+.PHONY : src/internal/RectRenderer.cpp.obj
 
-src/details/RectRenderer.i: src/details/RectRenderer.cpp.i
-.PHONY : src/details/RectRenderer.i
+src/internal/RectRenderer.i: src/internal/RectRenderer.cpp.i
+.PHONY : src/internal/RectRenderer.i
 
 # target to preprocess a source file
-src/details/RectRenderer.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.i
-.PHONY : src/details/RectRenderer.cpp.i
+src/internal/RectRenderer.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.i
+.PHONY : src/internal/RectRenderer.cpp.i
 
-src/details/RectRenderer.s: src/details/RectRenderer.cpp.s
-.PHONY : src/details/RectRenderer.s
+src/internal/RectRenderer.s: src/internal/RectRenderer.cpp.s
+.PHONY : src/internal/RectRenderer.s
 
 # target to generate assembly for a file
-src/details/RectRenderer.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/RectRenderer.cpp.s
-.PHONY : src/details/RectRenderer.cpp.s
+src/internal/RectRenderer.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/RectRenderer.cpp.s
+.PHONY : src/internal/RectRenderer.cpp.s
 
-src/details/TextRenderer.obj: src/details/TextRenderer.cpp.obj
-.PHONY : src/details/TextRenderer.obj
+src/internal/TextRenderer.obj: src/internal/TextRenderer.cpp.obj
+.PHONY : src/internal/TextRenderer.obj
 
 # target to build an object file
-src/details/TextRenderer.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.obj
-.PHONY : src/details/TextRenderer.cpp.obj
+src/internal/TextRenderer.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.obj
+.PHONY : src/internal/TextRenderer.cpp.obj
 
-src/details/TextRenderer.i: src/details/TextRenderer.cpp.i
-.PHONY : src/details/TextRenderer.i
+src/internal/TextRenderer.i: src/internal/TextRenderer.cpp.i
+.PHONY : src/internal/TextRenderer.i
 
 # target to preprocess a source file
-src/details/TextRenderer.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.i
-.PHONY : src/details/TextRenderer.cpp.i
+src/internal/TextRenderer.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.i
+.PHONY : src/internal/TextRenderer.cpp.i
 
-src/details/TextRenderer.s: src/details/TextRenderer.cpp.s
-.PHONY : src/details/TextRenderer.s
+src/internal/TextRenderer.s: src/internal/TextRenderer.cpp.s
+.PHONY : src/internal/TextRenderer.s
 
 # target to generate assembly for a file
-src/details/TextRenderer.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/TextRenderer.cpp.s
-.PHONY : src/details/TextRenderer.cpp.s
+src/internal/TextRenderer.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/TextRenderer.cpp.s
+.PHONY : src/internal/TextRenderer.cpp.s
 
-src/details/Time/Clock.obj: src/details/Time/Clock.cpp.obj
-.PHONY : src/details/Time/Clock.obj
+src/internal/Time/Clock.obj: src/internal/Time/Clock.cpp.obj
+.PHONY : src/internal/Time/Clock.obj
 
 # target to build an object file
-src/details/Time/Clock.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.obj
-.PHONY : src/details/Time/Clock.cpp.obj
+src/internal/Time/Clock.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.obj
+.PHONY : src/internal/Time/Clock.cpp.obj
 
-src/details/Time/Clock.i: src/details/Time/Clock.cpp.i
-.PHONY : src/details/Time/Clock.i
+src/internal/Time/Clock.i: src/internal/Time/Clock.cpp.i
+.PHONY : src/internal/Time/Clock.i
 
 # target to preprocess a source file
-src/details/Time/Clock.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.i
-.PHONY : src/details/Time/Clock.cpp.i
+src/internal/Time/Clock.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.i
+.PHONY : src/internal/Time/Clock.cpp.i
 
-src/details/Time/Clock.s: src/details/Time/Clock.cpp.s
-.PHONY : src/details/Time/Clock.s
+src/internal/Time/Clock.s: src/internal/Time/Clock.cpp.s
+.PHONY : src/internal/Time/Clock.s
 
 # target to generate assembly for a file
-src/details/Time/Clock.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock.cpp.s
-.PHONY : src/details/Time/Clock.cpp.s
+src/internal/Time/Clock.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock.cpp.s
+.PHONY : src/internal/Time/Clock.cpp.s
 
-src/details/Time/Clock_FixedTimestep.obj: src/details/Time/Clock_FixedTimestep.cpp.obj
-.PHONY : src/details/Time/Clock_FixedTimestep.obj
+src/internal/Time/Clock_FixedTimestep.obj: src/internal/Time/Clock_FixedTimestep.cpp.obj
+.PHONY : src/internal/Time/Clock_FixedTimestep.obj
 
 # target to build an object file
-src/details/Time/Clock_FixedTimestep.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.obj
-.PHONY : src/details/Time/Clock_FixedTimestep.cpp.obj
+src/internal/Time/Clock_FixedTimestep.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.obj
+.PHONY : src/internal/Time/Clock_FixedTimestep.cpp.obj
 
-src/details/Time/Clock_FixedTimestep.i: src/details/Time/Clock_FixedTimestep.cpp.i
-.PHONY : src/details/Time/Clock_FixedTimestep.i
+src/internal/Time/Clock_FixedTimestep.i: src/internal/Time/Clock_FixedTimestep.cpp.i
+.PHONY : src/internal/Time/Clock_FixedTimestep.i
 
 # target to preprocess a source file
-src/details/Time/Clock_FixedTimestep.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.i
-.PHONY : src/details/Time/Clock_FixedTimestep.cpp.i
+src/internal/Time/Clock_FixedTimestep.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.i
+.PHONY : src/internal/Time/Clock_FixedTimestep.cpp.i
 
-src/details/Time/Clock_FixedTimestep.s: src/details/Time/Clock_FixedTimestep.cpp.s
-.PHONY : src/details/Time/Clock_FixedTimestep.s
+src/internal/Time/Clock_FixedTimestep.s: src/internal/Time/Clock_FixedTimestep.cpp.s
+.PHONY : src/internal/Time/Clock_FixedTimestep.s
 
 # target to generate assembly for a file
-src/details/Time/Clock_FixedTimestep.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock_FixedTimestep.cpp.s
-.PHONY : src/details/Time/Clock_FixedTimestep.cpp.s
+src/internal/Time/Clock_FixedTimestep.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock_FixedTimestep.cpp.s
+.PHONY : src/internal/Time/Clock_FixedTimestep.cpp.s
 
-src/details/Time/Clock_Realtime.obj: src/details/Time/Clock_Realtime.cpp.obj
-.PHONY : src/details/Time/Clock_Realtime.obj
+src/internal/Time/Clock_Realtime.obj: src/internal/Time/Clock_Realtime.cpp.obj
+.PHONY : src/internal/Time/Clock_Realtime.obj
 
 # target to build an object file
-src/details/Time/Clock_Realtime.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.obj
-.PHONY : src/details/Time/Clock_Realtime.cpp.obj
+src/internal/Time/Clock_Realtime.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.obj
+.PHONY : src/internal/Time/Clock_Realtime.cpp.obj
 
-src/details/Time/Clock_Realtime.i: src/details/Time/Clock_Realtime.cpp.i
-.PHONY : src/details/Time/Clock_Realtime.i
+src/internal/Time/Clock_Realtime.i: src/internal/Time/Clock_Realtime.cpp.i
+.PHONY : src/internal/Time/Clock_Realtime.i
 
 # target to preprocess a source file
-src/details/Time/Clock_Realtime.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.i
-.PHONY : src/details/Time/Clock_Realtime.cpp.i
+src/internal/Time/Clock_Realtime.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.i
+.PHONY : src/internal/Time/Clock_Realtime.cpp.i
 
-src/details/Time/Clock_Realtime.s: src/details/Time/Clock_Realtime.cpp.s
-.PHONY : src/details/Time/Clock_Realtime.s
+src/internal/Time/Clock_Realtime.s: src/internal/Time/Clock_Realtime.cpp.s
+.PHONY : src/internal/Time/Clock_Realtime.s
 
 # target to generate assembly for a file
-src/details/Time/Clock_Realtime.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/Time/Clock_Realtime.cpp.s
-.PHONY : src/details/Time/Clock_Realtime.cpp.s
+src/internal/Time/Clock_Realtime.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/Time/Clock_Realtime.cpp.s
+.PHONY : src/internal/Time/Clock_Realtime.cpp.s
 
-src/details/TriangleRenderer.obj: src/details/TriangleRenderer.cpp.obj
-.PHONY : src/details/TriangleRenderer.obj
+src/internal/TriangleRenderer.obj: src/internal/TriangleRenderer.cpp.obj
+.PHONY : src/internal/TriangleRenderer.obj
 
 # target to build an object file
-src/details/TriangleRenderer.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.obj
-.PHONY : src/details/TriangleRenderer.cpp.obj
+src/internal/TriangleRenderer.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.obj
+.PHONY : src/internal/TriangleRenderer.cpp.obj
 
-src/details/TriangleRenderer.i: src/details/TriangleRenderer.cpp.i
-.PHONY : src/details/TriangleRenderer.i
+src/internal/TriangleRenderer.i: src/internal/TriangleRenderer.cpp.i
+.PHONY : src/internal/TriangleRenderer.i
 
 # target to preprocess a source file
-src/details/TriangleRenderer.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.i
-.PHONY : src/details/TriangleRenderer.cpp.i
+src/internal/TriangleRenderer.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.i
+.PHONY : src/internal/TriangleRenderer.cpp.i
 
-src/details/TriangleRenderer.s: src/details/TriangleRenderer.cpp.s
-.PHONY : src/details/TriangleRenderer.s
+src/internal/TriangleRenderer.s: src/internal/TriangleRenderer.cpp.s
+.PHONY : src/internal/TriangleRenderer.s
 
 # target to generate assembly for a file
-src/details/TriangleRenderer.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/TriangleRenderer.cpp.s
-.PHONY : src/details/TriangleRenderer.cpp.s
+src/internal/TriangleRenderer.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/TriangleRenderer.cpp.s
+.PHONY : src/internal/TriangleRenderer.cpp.s
 
-src/details/UniqueGlfwWindow.obj: src/details/UniqueGlfwWindow.cpp.obj
-.PHONY : src/details/UniqueGlfwWindow.obj
+src/internal/UniqueGlfwWindow.obj: src/internal/UniqueGlfwWindow.cpp.obj
+.PHONY : src/internal/UniqueGlfwWindow.obj
 
 # target to build an object file
-src/details/UniqueGlfwWindow.cpp.obj:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.obj
-.PHONY : src/details/UniqueGlfwWindow.cpp.obj
+src/internal/UniqueGlfwWindow.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.obj
+.PHONY : src/internal/UniqueGlfwWindow.cpp.obj
 
-src/details/UniqueGlfwWindow.i: src/details/UniqueGlfwWindow.cpp.i
-.PHONY : src/details/UniqueGlfwWindow.i
+src/internal/UniqueGlfwWindow.i: src/internal/UniqueGlfwWindow.cpp.i
+.PHONY : src/internal/UniqueGlfwWindow.i
 
 # target to preprocess a source file
-src/details/UniqueGlfwWindow.cpp.i:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.i
-.PHONY : src/details/UniqueGlfwWindow.cpp.i
+src/internal/UniqueGlfwWindow.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.i
+.PHONY : src/internal/UniqueGlfwWindow.cpp.i
 
-src/details/UniqueGlfwWindow.s: src/details/UniqueGlfwWindow.cpp.s
-.PHONY : src/details/UniqueGlfwWindow.s
+src/internal/UniqueGlfwWindow.s: src/internal/UniqueGlfwWindow.cpp.s
+.PHONY : src/internal/UniqueGlfwWindow.s
 
 # target to generate assembly for a file
-src/details/UniqueGlfwWindow.cpp.s:
-	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/details/UniqueGlfwWindow.cpp.s
-.PHONY : src/details/UniqueGlfwWindow.cpp.s
+src/internal/UniqueGlfwWindow.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/UniqueGlfwWindow.cpp.s
+.PHONY : src/internal/UniqueGlfwWindow.cpp.s
+
+src/internal/append_number_if_file_already_exists.obj: src/internal/append_number_if_file_already_exists.cpp.obj
+.PHONY : src/internal/append_number_if_file_already_exists.obj
+
+# target to build an object file
+src/internal/append_number_if_file_already_exists.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.obj
+.PHONY : src/internal/append_number_if_file_already_exists.cpp.obj
+
+src/internal/append_number_if_file_already_exists.i: src/internal/append_number_if_file_already_exists.cpp.i
+.PHONY : src/internal/append_number_if_file_already_exists.i
+
+# target to preprocess a source file
+src/internal/append_number_if_file_already_exists.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.i
+.PHONY : src/internal/append_number_if_file_already_exists.cpp.i
+
+src/internal/append_number_if_file_already_exists.s: src/internal/append_number_if_file_already_exists.cpp.s
+.PHONY : src/internal/append_number_if_file_already_exists.s
+
+# target to generate assembly for a file
+src/internal/append_number_if_file_already_exists.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/append_number_if_file_already_exists.cpp.s
+.PHONY : src/internal/append_number_if_file_already_exists.cpp.s
+
+src/internal/make_absolute_path.obj: src/internal/make_absolute_path.cpp.obj
+.PHONY : src/internal/make_absolute_path.obj
+
+# target to build an object file
+src/internal/make_absolute_path.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.obj
+.PHONY : src/internal/make_absolute_path.cpp.obj
+
+src/internal/make_absolute_path.i: src/internal/make_absolute_path.cpp.i
+.PHONY : src/internal/make_absolute_path.i
+
+# target to preprocess a source file
+src/internal/make_absolute_path.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.i
+.PHONY : src/internal/make_absolute_path.cpp.i
+
+src/internal/make_absolute_path.s: src/internal/make_absolute_path.cpp.s
+.PHONY : src/internal/make_absolute_path.s
+
+# target to generate assembly for a file
+src/internal/make_absolute_path.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/make_absolute_path.cpp.s
+.PHONY : src/internal/make_absolute_path.cpp.s
+
+src/internal/make_directories_if_necessary.obj: src/internal/make_directories_if_necessary.cpp.obj
+.PHONY : src/internal/make_directories_if_necessary.obj
+
+# target to build an object file
+src/internal/make_directories_if_necessary.cpp.obj:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.obj
+.PHONY : src/internal/make_directories_if_necessary.cpp.obj
+
+src/internal/make_directories_if_necessary.i: src/internal/make_directories_if_necessary.cpp.i
+.PHONY : src/internal/make_directories_if_necessary.i
+
+# target to preprocess a source file
+src/internal/make_directories_if_necessary.cpp.i:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.i
+.PHONY : src/internal/make_directories_if_necessary.cpp.i
+
+src/internal/make_directories_if_necessary.s: src/internal/make_directories_if_necessary.cpp.s
+.PHONY : src/internal/make_directories_if_necessary.s
+
+# target to generate assembly for a file
+src/internal/make_directories_if_necessary.cpp.s:
+	cd /d C:\Users\victo\Desktop\IMAC2S2\C++\particulesProject\particulesProject\build && $(MAKE) $(MAKESILENT) -f p6\CMakeFiles\p6.dir\build.make p6/CMakeFiles/p6.dir/src/internal/make_directories_if_necessary.cpp.s
+.PHONY : src/internal/make_directories_if_necessary.cpp.s
 
 src/math.obj: src/math.cpp.obj
 .PHONY : src/math.obj
@@ -539,30 +611,39 @@ help:
 	@echo ... src/Transform2D.obj
 	@echo ... src/Transform2D.i
 	@echo ... src/Transform2D.s
-	@echo ... src/details/ImGuiWrapper.obj
-	@echo ... src/details/ImGuiWrapper.i
-	@echo ... src/details/ImGuiWrapper.s
-	@echo ... src/details/RectRenderer.obj
-	@echo ... src/details/RectRenderer.i
-	@echo ... src/details/RectRenderer.s
-	@echo ... src/details/TextRenderer.obj
-	@echo ... src/details/TextRenderer.i
-	@echo ... src/details/TextRenderer.s
-	@echo ... src/details/Time/Clock.obj
-	@echo ... src/details/Time/Clock.i
-	@echo ... src/details/Time/Clock.s
-	@echo ... src/details/Time/Clock_FixedTimestep.obj
-	@echo ... src/details/Time/Clock_FixedTimestep.i
-	@echo ... src/details/Time/Clock_FixedTimestep.s
-	@echo ... src/details/Time/Clock_Realtime.obj
-	@echo ... src/details/Time/Clock_Realtime.i
-	@echo ... src/details/Time/Clock_Realtime.s
-	@echo ... src/details/TriangleRenderer.obj
-	@echo ... src/details/TriangleRenderer.i
-	@echo ... src/details/TriangleRenderer.s
-	@echo ... src/details/UniqueGlfwWindow.obj
-	@echo ... src/details/UniqueGlfwWindow.i
-	@echo ... src/details/UniqueGlfwWindow.s
+	@echo ... src/internal/ImGuiWrapper.obj
+	@echo ... src/internal/ImGuiWrapper.i
+	@echo ... src/internal/ImGuiWrapper.s
+	@echo ... src/internal/RectRenderer.obj
+	@echo ... src/internal/RectRenderer.i
+	@echo ... src/internal/RectRenderer.s
+	@echo ... src/internal/TextRenderer.obj
+	@echo ... src/internal/TextRenderer.i
+	@echo ... src/internal/TextRenderer.s
+	@echo ... src/internal/Time/Clock.obj
+	@echo ... src/internal/Time/Clock.i
+	@echo ... src/internal/Time/Clock.s
+	@echo ... src/internal/Time/Clock_FixedTimestep.obj
+	@echo ... src/internal/Time/Clock_FixedTimestep.i
+	@echo ... src/internal/Time/Clock_FixedTimestep.s
+	@echo ... src/internal/Time/Clock_Realtime.obj
+	@echo ... src/internal/Time/Clock_Realtime.i
+	@echo ... src/internal/Time/Clock_Realtime.s
+	@echo ... src/internal/TriangleRenderer.obj
+	@echo ... src/internal/TriangleRenderer.i
+	@echo ... src/internal/TriangleRenderer.s
+	@echo ... src/internal/UniqueGlfwWindow.obj
+	@echo ... src/internal/UniqueGlfwWindow.i
+	@echo ... src/internal/UniqueGlfwWindow.s
+	@echo ... src/internal/append_number_if_file_already_exists.obj
+	@echo ... src/internal/append_number_if_file_already_exists.i
+	@echo ... src/internal/append_number_if_file_already_exists.s
+	@echo ... src/internal/make_absolute_path.obj
+	@echo ... src/internal/make_absolute_path.i
+	@echo ... src/internal/make_absolute_path.s
+	@echo ... src/internal/make_directories_if_necessary.obj
+	@echo ... src/internal/make_directories_if_necessary.i
+	@echo ... src/internal/make_directories_if_necessary.s
 	@echo ... src/math.obj
 	@echo ... src/math.i
 	@echo ... src/math.s
