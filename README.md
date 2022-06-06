@@ -11,8 +11,8 @@ COUR IMAC2 LECONS :
 
 level 1 :
   
-  -Install a compiler
-  -Use an IDE
+  - Install a compiler
+  - Use an IDE
   Use Git
   Use a debugger
   Use a formatting tool
