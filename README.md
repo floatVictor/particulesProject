@@ -4,6 +4,7 @@ COMMANDS :
 
 - P : toogle UI
 - S : take screenshot
+- esc/f11 : toogle fullscreen
 
 note : you can still have UI visible while taking screenshots
 
